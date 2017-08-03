@@ -1,5 +1,7 @@
 # Calls to Action
 
+Also available as [PDF](https://github.com/nevillepark/trc/raw/master/pdfs/Calls_to_Action_English2.pdf).
+
 ### Table of contents
 
 - [Legacy](#legacy)
