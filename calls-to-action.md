@@ -9,9 +9,9 @@
   - [Health](#health)
   - [Justice](#justice)
 - [Reconciliation](#reconciliation)
-  - [Canadian Governments and the United Nations Declaration on the Rights of Indigenous People]()
+  - [Canadian Governments and the United Nations Declaration on the Rights of Indigenous Peoples](#canadian-governments-and-the-united-nations-declaration-on-the-rights-of-indigenous-peoples)
   - [Royal Proclamation and Covenant of Reconciliation](#royal-proclamation-and-covenant-of-reconciliation)
-  - [Settlement Agreement Parties and the United Nations Declaration on the Rights of Indigenous Peoples]()
+  - [Settlement Agreement Parties and the United Nations Declaration on the Rights of Indigenous Peoples](#settlement-agreement-parties-and-the-united-nations-declaration-on-the-rights-of-indigenous-peoples)
   - [Equity for Aboriginal People in the Legal System](#equity-for-aboriginal-people-in-the-legal-system)
   - [National Council for Reconciliation](#national-council-for-reconciliation)
   - [Professional Development and Training for Public Servants](#professional-development-and-training-for-public-servants)
@@ -84,7 +84,7 @@ In order to redress the legacy of residential schools and advance the process of
 
 - Enabling parents to fully participate in the education of their children.
 
-	vii.Respecting and honouring Treaty relationships.
+- Respecting and honouring Treaty relationships.
 
 **11\.** We call upon the federal government to provide adequate funding to end the backlog of First Nations students seeking a post-secondary education.
 
@@ -186,7 +186,7 @@ In order to redress the legacy of residential schools and advance the process of
 
 ## Reconciliation
 
-### Canadian Governments and the United Nations Declaration on the Rights of Indigenous People
+### Canadian Governments and the United Nations Declaration on the Rights of Indigenous Peoples
 
 **43\.** We call upon federal, provincial, territorial, and municipal governments to fully adopt and implement the United Nations Declaration on the Rights of Indigenous Peoples as the framework for reconciliation.
 
