@@ -1,3 +1,7 @@
+---
+
+---
+
 # The TRC Report Online
 
 The [findings of Canada's Truth and Reconciliation Commission](http://www.trc.ca/websites/trcinstitution/index.php?p=890), online in an easily readable format.
@@ -11,7 +15,7 @@ The [findings of Canada's Truth and Reconciliation Commission](http://www.trc.ca
   - The history
   - The legacy
   - The challenge of reconciliation
-  - [Calls to Action]({{ site.baseurl }}{% link /calls-to-action %})
+  - [Calls to Action](/calls-to-action)
   - Appendices
   - Bibliography
   - Endnotes
