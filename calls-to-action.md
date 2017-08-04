@@ -1,6 +1,6 @@
 # Calls to Action
 
-Also available as [PDF](https://github.com/nevillepark/trc/raw/master/pdfs/Calls_to_Action_English2.pdf).
+**Other formats:** [PDF](https://github.com/nevillepark/trc/raw/master/pdfs/Calls_to_Action_English2.pdf), [plaintext](https://raw.githubusercontent.com/nevillepark/trc/master/txt/calls-to-action.txt)
 
 ### Table of contents
 
