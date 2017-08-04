@@ -1,7 +1,5 @@
 # Calls to Action
 
-**Other formats:** [PDF](/trc/pdfs/Calls_to_Action_English2.pdf), [plaintext](/trc/txt/calls-to-action.txt)
-
 ### Table of contents
 
 - [Legacy](#legacy)
