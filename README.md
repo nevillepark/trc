@@ -11,7 +11,7 @@ The [findings of Canada's Truth and Reconciliation Commission](http://www.trc.ca
   - The history
   - The legacy
   - The challenge of reconciliation
-  - [Calls to Action]({{ site.baseurl }}{% link /calls-to-action.md %})
+  - [Calls to Action]({{ site.baseurl }}{% link /calls-to-action %})
   - Appendices
   - Bibliography
   - Endnotes
