@@ -33,16 +33,16 @@ All of the tools I am using are free for anyone to use, and they (or reasonable 
 
 #### Command-line applications
 
-- ```pdftotext```
-- ```nano```
-- ```tr```, ```sed```
-- and, of course, ```git```
+- [```pdftotext```](https://en.wikipedia.org/wiki/Pdftotext)
+- [```nano```](https://nano-editor.org/)
+- [```tr```](https://en.wikipedia.org/wiki/Tr_(Unix)), [```sed```](https://en.wikipedia.org/wiki/Sed)
+- and, of course, [```git```](http://blog.scottlowe.org/2015/01/14/non-programmer-git-intro/)
 
 #### Graphical applications
 
-- [Regexr](http://regexr.com), as an [Epiphany]() web app
-- PDF viewer [evince]()
-- Text editor [Scratch]()
+- [Regexr](http://regexr.com), as an [Epiphany](https://elementary.io/#showcase-epiphany) web app
+- PDF viewer [evince](https://wiki.gnome.org/Apps/Evince)
+- Text editor [Scratch](https://elementary.io/#showcase-scratch)
 
 I could probably crowdfund buying the e-books and extract the text much easier that way, but I am stubborn and like a challenge.
 
