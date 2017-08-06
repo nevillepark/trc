@@ -4,13 +4,13 @@ The Executive Summary of [the findings of Canada's Truth and Reconciliation Comm
 
 ## The report
 
-1. [Preface](/preface) [[plaintext](/txt/preface.txt)]
-2. [Introduction](/introduction) [[plaintext](/txt/introduction.txt)]
-3. [Commission activities](/commission-activities) [[plaintext](/txt/commission-activities.txt)]
+1. [Preface](/trc/preface) [[plaintext](/txt/preface.txt)]
+2. [Introduction](/trc/introduction) [[plaintext](/txt/introduction.txt)]
+3. [Commission activities](/trc/commission-activities) [[plaintext](/txt/commission-activities.txt)]
 4. The history
 5. The legacy
 6. The challenge of reconciliation
-7. [Calls to Action](/calls-to-action) [[plaintext](/txt/calls-to-action.txt)]
+7. [Calls to Action](/trc/calls-to-action) [[plaintext](/txt/calls-to-action.txt)]
 8. Appendices
 9. Bibliography
 10. Endnotes
