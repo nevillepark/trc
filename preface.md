@@ -1,5 +1,5 @@
 ---
-title: Preface
+title: Preface - { site.title }
 ---
 
 # Preface
