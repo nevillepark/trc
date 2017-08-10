@@ -36,24 +36,23 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 
 ### Regexes
 
-Footnotes, plaintext:	```([.?!"”’])(\d+)	$1^$2```
-Footnotes, Markdown: 	```\^(\d+)				<sup>$1</sup>```
-  (Note: find a way to exclude dollar figures, percents, etc.)
-
-Paragraph breaks			```\n\s{3,}				\n\n```
-  (Note: after this some paragraphs will still be indented by 1, find a way to fix)
-Hyphenated words			```\b-\n	```
-Acronyms						```\bACRONYM\b```
+| | Search | Replace | Notes |
+| --- | --- | --- | --- |
+| Footnotes, plaintext | `([.?!"”’])(\d+)` | `$1^$2` | 
+| Footnotes, Markdown | `\^(\d+)` | `<sup>$1</sup>` | Find a way to exclude dollar figures, percents, etc. |
+| Paragraph breaks | `\n\s{3,}` | `\n\n` | Note: after this some paragraphs will still be indented by 1, find a way to fix |
+| Hyphenated words | `\b-\n` | |
+| Acronyms | `\bACRONYM\b` | |
 
 ### Common acronyms
 
-CEP
-IAP
-IRSSA
-IRSSC
-NCTR
-OPP
-TRC
+- CEP
+- IAP
+- IRSSA
+- IRSSC
+- NCTR
+- OPP
+- TRC
 
 ## Preparing .txt version
 
@@ -71,20 +70,22 @@ TRC
 
 - do stuff locally
 
-	git add *
-	git commit -m "Message"
-	git push origin master
+```
+git add *
+git commit -m "Message"
+git push origin master
+```
 
 - fetch updates from github
 
-	git pull
+`git pull`
 
 - reset everything
 
-	git fetch origin
-	git reset --hard origin/master
+`git fetch origin`
+`git reset --hard origin/master`
 
 ## To do
 
-- Is there a way to extract pictures & graphs?
-- lern 2 tr nub
+- [ ] Is there a way to extract pictures & graphs?
+- [ ] lern 2 tr nub
