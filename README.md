@@ -6,7 +6,7 @@ The TRC report is a vital resource that weaves together survivors' testimony and
 
 Currently the volumes are available in print and as e-books and PDFs. However, the full text has not yet been put online in a lightweight format that can be easily searched, navigated, and viewed on any device. The report is explicitly [public domain](https://en.wikipedia.org/wiki/Public_domain), which means that the creators have waived copyright. Anyone can share it and put it in any format, for free.
 
-This is just the Executive Summary; the full report consists of several volumes. I am [documenting my steps](/trc/workflow) as I go in case anyone else wants to continue the work.
+This is just the Executive Summary; the full report consists of several volumes. I am [documenting my steps](/workflow.md) as I go in case anyone else wants to continue the work.
 
 ## Boring technical details
 
