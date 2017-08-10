@@ -1,5 +1,3 @@
-# The TRC Report Online
-
 The Executive Summary of [the findings of Canada's Truth and Reconciliation Commission](http://www.trc.ca/websites/trcinstitution/index.php?p=890), online in an easily readable format.
 
 ## The report
