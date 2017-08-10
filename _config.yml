@@ -1,5 +1,6 @@
 title: The TRC Report Online
 description: The Executive Summary of the findings of Canada’s Truth and Reconciliation Commission, online in an easily readable format.
-url: https://nevillepark.github.io/trc
+# url: https://nevillepark.github.io/trc
+# ugh fuck everything
 baseurl: /trc
 permalink: pretty
