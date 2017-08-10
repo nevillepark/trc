@@ -1,3 +1,15 @@
+**Table of contents**
+
+- [Commission activities](#commission-activities)
+  * [Meeting from coast to coast](#meeting-from-coast-to-coast)
+  * [Statement gathering](#statement-gathering)
+  * [The National Events](#the-national-events)
+  * [Witnessing and expressions of reconciliation](#witnessing-and-expressions-of-reconciliation)
+  * [Education and outreach](#education-and-outreach)
+  * [Commemoration and community events funding](#commemoration-and-community-events-funding)
+  * [Interim report](#interim-report)
+  * [National Centre for Truth and Reconciliation](#national-centre-for-truth-and-reconciliation)
+
 # Commission activities
 
 The Truth and Reconciliation Commission of Canada was established in 2008 under the terms of the Indian Residential Schools Settlement Agreement. The Commission was mandated to

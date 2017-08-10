@@ -1,6 +1,4 @@
-# Calls to Action
-
-### Table of contents
+**Table of contents**
 
 - [Legacy](#legacy)
   - [Child welfare](#child-welfare)
@@ -26,7 +24,7 @@
   - [Business and Reconciliation](#business-and-reconciliation)
   - [Newcomers to Canada](#newcomers-to-canada)
 
-_______________________________________
+# Calls to Action
 
 In order to redress the legacy of residential schools and advance the process of Canadian reconciliation, the Truth and Reconciliation Commission makes the following calls to action.
 
