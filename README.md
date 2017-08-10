@@ -1,6 +1,6 @@
-# About
+# The TRC Report Online
 
-## Purpose
+## About
 
 The TRC report is a vital resource that weaves together survivors' testimony and historical records into a full account of how the Canadian government and religious institutions carried out cultural genocide against First Nations, Métis, and Inuit people. 
 
