@@ -1,11 +1,13 @@
-**Table of contents**
+&larr; Back: [Preface](/trc/preface) & middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Commission activities](/trc/commission-activities) &rarr;
+
+_________________________
+
+# Introduction
 
 - [Introduction](#introduction)
   * [Reconciliation at the crossroads](#reconciliation-at-the-crossroads)
   * [What is reconciliation?](#what-is-reconciliation-)
   * [Reconciliation as relationship](#reconciliation-as-relationship)
-
-# Introduction
 
 For over a century, the central goals of Canada’s Aboriginal policy were to eliminate Aboriginal governments; ignore Aboriginal rights; terminate the Treaties; and, through a process of assimilation, cause Aboriginal peoples to cease to exist as distinct legal, social, cultural, religious, and racial entities in Canada. The establishment and operation of residential schools were a central element of this policy, which can best be described as “cultural genocide.”
 
@@ -21,7 +23,7 @@ Without legal authority or foundation, in the 1880s Canada instituted a “pass 
 
 Canada replaced existing forms of Aboriginal government with relatively powerless band councils whose decisions it could override and whose leaders it could depose.<sup>4</sup> In the process, it disempowered Aboriginal women, who had held significant influence and powerful roles in many First Nations, including the Mohawks, the Carrier, and Tlingit.<sup>5</sup> Canada denied the right to participate fully in Canadian political, economic, and social life to those Aboriginal people who refused to abandon their Aboriginal identity.<sup>6</sup>
 
-[IMAGE: Alert Bay, British Columbia, school, 1885. The federal government has estimated that over 150,000 students attended Canada’s residential schools. Library and Archives Canada, George Dawson, PA-037934.] 
+[IMAGE: Alert Bay, British Columbia, school, 1885. The federal government has estimated that over 150,000 students attended Canada’s residential schools. Library and Archives Canada, George Dawson, PA-037934.]
 
 Canada outlawed Aboriginal spiritual practices, jailed Aboriginal spiritual leaders, and confiscated sacred objects.<sup>7</sup>
 
@@ -140,13 +142,13 @@ At the British Columbia National Event, the former lieutenant-governor of Britis
 > And so many of you have said today, so many of the witnesses that came forward
 said, “I cannot forgive. I’m not ready to forgive.” And I wondered why. Reconciliation is about hearing the truth, that’s for sure. It’s also about acknowledging that truth. Acknowledging that what you’ve said is true. Accepting responsibility for your pain and putting those children back in the place they would have been, had they not been taken from their homes.… What are the blockages to reconciliation? The continuing poverty in our communities and the failure of our government to recognize that “Yes, we own the land.” Stop the destruction of our territories and for God’s sake, stop the deaths of so many of our women on highways across this country.… I’m going to continue to talk about reconciliation, but just as important, I’m going to foster healing in our own people, so that our children can avoid this pain, can avoid this destruction and finally, take our rightful place in this “Our Canada.”<sup>38</sup>
 
-When former residential school staff attended public TRC events, some thought it was most important to hear directly from Survivors, even if their own perspectives and memories of the schools might differ from those of the Survivors. At a Community Hearing in Thunder Bay, Ontario, Merle Nisley, who worked at the Poplar Hill residential school in the early 1970s, said, 
+When former residential school staff attended public TRC events, some thought it was most important to hear directly from Survivors, even if their own perspectives and memories of the schools might differ from those of the Survivors. At a Community Hearing in Thunder Bay, Ontario, Merle Nisley, who worked at the Poplar Hill residential school in the early 1970s, said,
 
 > I think it would be valuable for people who have been involved in the schools to hear stories personally. And I also think it would be valuable, when it’s appropriate ... [for] former students who are on the healing path to ... hear some of our stories, or to hear some of our perspectives. But I know that’s a very difficult thing to do.... Certainly this is not the time to try to ask all those former students to sit and listen to the rationale of the former staff because there’s just too much emotion there ... and there’s too little trust ... you can’t do things like that when there’s low levels of trust. So I think really a very important thing is for former staff to hear the stories and to be courageous enough just to hear them.... Where wrongs were done, where abuses happened, where punishment was over the top, and wherever sexual abuse happened, somehow we need to courageously sit and talk about that, and apologize. I don’t know how that will happen.<sup>39</sup>
 
 Nisley’s reflections highlight one of the difficulties the Commission faced in trying to create a space for respectful dialogue between former residential school students and staff. While, in most cases, this was possible, in other instances, Survivors and their family members found it very difficult to listen to former staff, particularly if they perceived the speaker to be an apologist for the schools.
 
-At the TRC Victoria Regional Event, Brother Tom Cavanaugh, the district superior of the Oblates of Mary Immaculate for British Columbia and the Yukon, spoke about his time as a supervisor at the Christie residential school. 
+At the TRC Victoria Regional Event, Brother Tom Cavanaugh, the district superior of the Oblates of Mary Immaculate for British Columbia and the Yukon, spoke about his time as a supervisor at the Christie residential school.
 
 > What I experienced over the six years I was at Christie residential school was a staff, Native and non-Native alike, working together to provide as much as possible, a safe loving environment for the children attending Christie school. Was it a perfect situation? No, it wasn’t a perfect situation ... but again, there didn’t seem to be, at that time, any other viable alternative in providing a good education for so many children who lived in relatively small and isolated communities.
 
@@ -230,4 +232,8 @@ A reconciliation framework is one in which Canada’s political and legal system
 
 For many Survivors and their families, this commitment is foremost about healing themselves, their communities, and nations, in ways that revitalize individuals as well as Indigenous cultures, languages, spirituality, laws, and governance systems. For governments, building a respectful relationship involves dismantling a centuries-old political and bureaucratic culture in which, all too often, policies and programs are still based on failed notions of assimilation. For churches, demonstrating long-term commitment requires atoning for actions within the residential schools, respecting Indigenous spirituality, and supporting Indigenous peoples’ struggles for justice and equity. Schools must teach history in ways that foster mutual respect, empathy, and engagement. All Canadian children and youth deserve to know Canada’s honest history, including what happened in the residential schools, and to appreciate the rich history and knowledge of Indigenous nations who continue to make such a strong contribution to Canada, including our very name and collective identity as a country. For Canadians from all walks of life, reconciliation offers a new way of living together.
 
+___________________________
 
+&larr; Back: [Preface](/trc/preface) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Commission activities](/trc/commission-activities) &rarr;
+
+________________

@@ -1,4 +1,8 @@
-**Table of contents**
+&rarr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Legacy &rarr;
+
+_________________________________
+
+# The history
 
 - [The history](#the-history)
   * [The imperial context](#the-imperial-context)
@@ -28,8 +32,6 @@
     + [Resistance: "I am the father of this child."](#resistance-i-am-the-father-of-this-child)
     + [The staff: "My aim was to do something good."](#the-staff-my-aim-was-to-do-something-good)
   * [Agreement and apologies](#agreement-and-apologies)
-
-# The history
 
 [IMAGE: A group of students and parents from the Saddle Lake Reserve, en route to the Methodist-operated school in Red Deer, Alberta. Woodruff, Library and Archives Canada, PA-040715.]
 
@@ -772,3 +774,7 @@ These events do not bring the residential school story to an end. The legacy of 
 The history of residential schools presented in this report commenced by placing the schools in the broader history of the global European colonization of Indigenous peoples and their lands. Residential schooling was only a part of the colonization of Aboriginal people. The policy of colonization suppressed Aboriginal culture and languages, disrupted Aboriginal government, destroyed Aboriginal economies, and confined Aboriginal people to marginal and often unproductive land. When that policy resulted in hunger, disease, and poverty, the federal government failed to meet its obligations to Aboriginal people. That policy was dedicated to eliminating Aboriginal peoples as distinct political and cultural entities and must be described for what it was: a policy of cultural genocide.
 
 Despite being subjected to aggressive assimilation policies for nearly 200 years, Aboriginal people have maintained their identity and their communities. They continue to assert their rights to self-governance. In this, they are not alone. Like the Settlement Agreement in Canada, the United Nations Declaration on the Rights of Indigenous Peoples is a milestone in a global campaign to recognize and respect the rights of Indigenous peoples. It is time to abandon the colonial policies of the past, to address the legacy of the schools, and to engage in a process of reconciliation with the Aboriginal people of Canada.
+
+____________________________
+
+&rarr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Legacy &rarr;
