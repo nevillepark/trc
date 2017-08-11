@@ -10,7 +10,7 @@ Learn more about this project on [Github](https://github.com/nevillepark/trc).
 
 ## Read the report
 
-**Table of contents**
+### Table of contents
 
 1. [Preface](/trc/preface) [[plaintext](/txt/preface.txt)]
 2. [Introduction](/trc/introduction) [[plaintext](/txt/introduction.txt)]
