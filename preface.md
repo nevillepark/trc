@@ -1,4 +1,5 @@
-Up: [Table of contents](/#table-of-contents) &middot; Next: [Introduction](/introduction) &rarr;
+Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Introduction](/trc/introduction) &rarr;
+
 _________________
 
 # Preface
@@ -16,4 +17,4 @@ But, shaming and pointing out wrongdoing were not the purpose of the Commissionâ
 Getting to the truth was hard, but getting to reconciliation will be harder. It requires that the paternalistic and racist foundations of the residential school system be rejected as the basis for an ongoing relationship. Reconciliation requires that a new vision, based on a commitment to mutual respect, be developed. It also requires an understanding that the most harmful impacts of residential schools have been the loss of pride and self-respect of Aboriginal people, and the lack of respect that non-Aboriginal people have been raised to have for their Aboriginal neighbours. Reconciliation is not an Aboriginal problem; it is a Canadian one. Virtually all aspects of Canadian society may need to be reconsidered. This summary is intended to be the initial reference point in that important discussion. Reconciliation will take some time.
 
 ______________
-Up: [Table of contents](/#table-of-contents) &middot; Next: [Introduction](/introduction) &rarr;
+Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Introduction](/trc/introduction) &rarr;
