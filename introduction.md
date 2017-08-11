@@ -1,4 +1,4 @@
-&larr; Back: [Preface](/trc/preface) & middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Commission activities](/trc/commission-activities) &rarr;
+&larr; Back: [Preface](/trc/preface) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Commission activities](/trc/commission-activities) &rarr;
 
 _________________________
 
