@@ -1,3 +1,6 @@
+Up: [Table of contents](/#table-of-contents) &middot; Next: [Introduction](/introduction) &rarr;
+_________________
+
 # Preface
 
 Canada’s residential school system for Aboriginal children was an education system in name only for much of its existence. These residential schools were created for the purpose of separating Aboriginal children from their families, in order to minimize and weaken family ties and cultural linkages, and to indoctrinate children into a new culture—the culture of the legally dominant Euro-Christian Canadian society, led by Canada’s first prime minister, Sir John A. Macdonald. The schools were in existence for well over 100 years, and many successive generations of children from the same communities and families endured the experience of them. That experience was hidden for most of Canada’s history, until Survivors of the system were finally able to find the strength, courage, and support to bring their experiences to light in several thousand court cases that ultimately led to the largest class-action lawsuit in Canada’s history.
@@ -12,3 +15,5 @@ But, shaming and pointing out wrongdoing were not the purpose of the Commission�
 
 Getting to the truth was hard, but getting to reconciliation will be harder. It requires that the paternalistic and racist foundations of the residential school system be rejected as the basis for an ongoing relationship. Reconciliation requires that a new vision, based on a commitment to mutual respect, be developed. It also requires an understanding that the most harmful impacts of residential schools have been the loss of pride and self-respect of Aboriginal people, and the lack of respect that non-Aboriginal people have been raised to have for their Aboriginal neighbours. Reconciliation is not an Aboriginal problem; it is a Canadian one. Virtually all aspects of Canadian society may need to be reconsidered. This summary is intended to be the initial reference point in that important discussion. Reconciliation will take some time.
 
+______________
+Up: [Table of contents](/#table-of-contents) &middot; Next: [Introduction](/introduction) &rarr;
