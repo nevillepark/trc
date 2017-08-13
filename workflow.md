@@ -39,14 +39,15 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 | | Search | Replace | Notes |
 | --- | --- | --- | --- |
 | Footnotes, plaintext | `([.?!"”’])(\d+)` | `$1^$2` | 
-| Footnotes, Markdown | `\^(\d+)` | `<sup>$1</sup>` | Find a way to exclude dollar figures, percents, etc. |
-| Paragraph breaks | `\n\s{3,}` | `\n\n` | Note: after this some paragraphs will still be indented by 1, find a way to fix |
+| Footnotes, Markdown | `\^(\d+)` | `<sup>$1</sup>` | Find a way to exclude dollar figures, percents, pop'n figures, etc. |
+| Paragraph breaks | `\n\ {3,}` | `\n\n` | |
 | Hyphenated words | `\b-\n` | |
 | Acronyms | `\bACRONYM\b` | |
 
 ### Common acronyms
 
 - CEP
+- FASD
 - IAP
 - IRSSA
 - IRSSC
