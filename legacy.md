@@ -421,7 +421,9 @@ Aboriginal health practices and beliefs, like Aboriginal peoples themselves, are
 
 > **Calls to Action**
 >
-> 21) We call upon the federal government to provide sustainable funding for existing and new Aboriginal healing centres to address the physical, mental, emotional, and spiritual harms caused by residential schools, and to ensure that the funding of healing centres in Nunavut and the Northwest Territories is a priority. 22) We call upon those who can effect change within the Canadian health-care system to recognize the value of Aboriginal healing practices and use them in the treatment of Aboriginal patients in collaboration with Aboriginal healers and Elders where requested by Aboriginal patients.
+> 21) We call upon the federal government to provide sustainable funding for existing and new Aboriginal healing centres to address the physical, mental, emotional, and spiritual harms caused by residential schools, and to ensure that the funding of healing centres in Nunavut and the Northwest Territories is a priority. 
+> 
+> 22) We call upon those who can effect change within the Canadian health-care system to recognize the value of Aboriginal healing practices and use them in the treatment of Aboriginal patients in collaboration with Aboriginal healers and Elders where requested by Aboriginal patients.
 
 Overcoming the health legacy of the residential schools will require a long-term investment in Aboriginal communities, so that communities can revive their capacity to heal themselves. One key investment will be the training of more Aboriginal health and social service professionals. The work that Health Canada’s community cultural and traditional knowledge healing team members did in support of this Commission and other Settlement Agreement processes is but one example of the invaluable service these professionals can provide.
 
@@ -490,7 +492,9 @@ The criminal prosecution of abusers in residential schools and the subsequent ci
 
 > **Calls to Action**
 >
-> 27) We call upon the Federation of Law Societies of Canada to ensure that lawyers receive appropriate cultural competency training, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism. 28) We call upon law schools in Canada to require all law students to take a course in Aboriginal people and the law, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
+> 27) We call upon the Federation of Law Societies of Canada to ensure that lawyers receive appropriate cultural competency training, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.  
+> 
+> 28) We call upon law schools in Canada to require all law students to take a course in Aboriginal people and the law, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
 ### Aftermath of the Settlement Agreement
 
@@ -608,7 +612,9 @@ There are some federal programs that appear to be working, but Aboriginal inmate
 
 > **Calls to Action**
 >
-> 35) We call upon the federal government to eliminate barriers to the creation of additional Aboriginal healing lodges within the federal correctional system. 36) We call upon the federal, provincial, and territorial governments to work with Aboriginal communities to provide culturally relevant services to inmates on issues such as substance abuse, family and domestic violence, and overcoming the experience of having been sexually abused.
+> 35) We call upon the federal government to eliminate barriers to the creation of additional Aboriginal healing lodges within the federal correctional system.  
+> 
+> 36) We call upon the federal, provincial, and territorial governments to work with Aboriginal communities to provide culturally relevant services to inmates on issues such as substance abuse, family and domestic violence, and overcoming the experience of having been sexually abused.
 
 ### Parole and community supports
 
