@@ -34,6 +34,8 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 
 - Find acronyms and put into uppercase.
 
+- Add Markdown for headings.
+
 ### Regexes
 
 | | Search | Replace | Notes |
@@ -46,6 +48,7 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 
 ### Common acronyms
 
+- ALI
 - CEP
 - FASD
 - IAP
@@ -53,6 +56,7 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 - IRSSC
 - NCTR
 - OPP
+- RCMP
 - TRC
 
 ## Preparing .txt version
