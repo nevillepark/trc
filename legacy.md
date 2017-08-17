@@ -92,21 +92,16 @@ An analysis of the Canadian Incidence Study confirmed that poverty and social st
 Researchers suggest that clear standards are needed to guide apprehensions, and that the provision of family supports and prevention services might be a better response to concerns than removal of the child.<sup>20</sup> There must be a commitment to reducing the number of Aboriginal children in care and developing supports to keep families together. Child-welfare workers must bring to their work an understanding of Aboriginal culture as well as an understanding of the lasting harms caused by residential schools.
 
 > **Call to Action**
-
+>
 > 1) We call upon the federal, provincial, territorial, and Aboriginal governments to commit to reducing the number of Aboriginal children in care by:
-
 > i.  Monitoring and assessing neglect investigations.
-
 > ii.  Providing adequate resources to enable Aboriginal communities and child-welfare organizations to keep Aboriginal families together where it is safe to do so, and to keep children in culturally appropriate environments, regardless of where they reside.
-
 > iii. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the history and impacts of residential schools.
-
 > iv. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the potential for Aboriginal communities and families to provide more appropriate solutions to family healing.
-
 > v. Requiring that all child-welfare decision makers consider the impact of the residential school experience on children and their caregivers. Better research and data are also required in order to monitor and develop strategies to reduce the overrepresentation of Aboriginal children in care.
 
-> ***Call to Action**
-
+> **Call to Action**
+>
 > 2) We call upon the federal government, in collaboration with the provinces and territories, to prepare and publish annual reports on the number of Aboriginal children (First Nations, Inuit, and Métis) who are in care, compared with non-Aboriginal children, as well as the reasons for apprehension, the total spending on preventive and care services by child-welfare agencies, and the effectiveness of various interventions.
 
 ### Death and abuse of children in care
@@ -140,7 +135,7 @@ The result is that there are often disputes over which level of government or de
 In 2007, the House of Commons unanimously supported the adoption of “Jordan’s Principle,” named in honour of a Manitoba infant born with complex medical needs who spent all of his short life in hospital, caught up in a federal–provincial jurisdictional dispute over responsibility for funding his care.<sup>32</sup> According to Jordan’s Principle, the government department that is first contacted for a service available only off-reserve must pay for it and later pursue reimbursement for the expenses.<sup>33</sup> But Jordan’s Principle was not passed into law; rather, it is a statement of principle by the Canadian parliament.<sup>34</sup> Many inter-governmental cases of disputed responsibility continue.
 
 > **Call to Action**:
-
+>
 > 3) We call upon all levels of government to fully implement Jordan’s Principle.
 
 ### Improving outcomes for children
@@ -150,13 +145,13 @@ Although there is now considerable Aboriginal control of child-welfare services,
 Canada has rejected First Nations’ demands to operate services in accordance with traditional laws and traditional justice systems. By contrast, in the United States, tribal courts have played an important role in the child-welfare system since 1978. These courts have exclusive jurisdiction over custody proceedings involving Native American children living on a reservation. They may also play a role in Native American child-custody cases where the child lives outside a reservation.<sup>35</sup> While not perfect, the American system has led to greater tribal authority over the placement of Indigenous children, as well as the expansion of family preservation programs. Indigenous children are still removed from their homes in disproportionately high numbers, but the rate of overrepresentation has decreased. The rate of placement with non-Indigenous caregivers has also decreased.<sup>36</sup>
 
 > **Call to Action**
-
+>
 > 4) We call upon the federal government to enact Aboriginal child-welfare legislation that establishes national standards for Aboriginal child apprehension and custody cases and includes principles that: i. Affirm the right of Aboriginal governments to establish and maintain their own child-welfare agencies. ii. Require all child-welfare agencies and courts to take the residential school legacy into account in their decision making. iii. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate.
 
 There is also a human dimension to improving outcomes for Aboriginal children. The intergenerational impact of the residential school experience has left some families without strong role models for parenting. An investment in culturally appropriate programs in Aboriginal communities has the potential to improve parenting skills and enable more children to grow up safely in their own families and communities.
 
 > **Call to Action**
-
+>
 > 5) We call upon the federal, provincial, territorial, and Aboriginal governments to develop culturally appropriate parenting programs for Aboriginal families.
 
 ## Education
@@ -166,7 +161,7 @@ The residential school system failed as an education system. It was based on rac
 In their mission to ‘civilize’ and Christianize, the school staff relied on corporal punishment to discipline their students. That punishment often crossed the line into physical abuse. Although it is employed much less frequently now, corporal punishment is still legally permissible in schools and elsewhere under Canadian law. Section 43 of the Criminal Code says: “Every schoolteacher, parent or person standing in the place of a parent is justified in using force by way of correction toward a pupil or child, as the case may be, who is under his care, if the force does not exceed what is reasonable under the circumstances.” The Commission believes that corporal punishment is a relic of a discredited past and has no place in Canadian schools or homes.
 
 > **Call to Action**
-
+>
 > 6) We call upon the Government of Canada to repeal Section 43 of the Criminal Code of Canada.
 
 The objectives of the schools were to strip away Aboriginal children’s identities and assimilate them into Western Christian society. Doris Young, who attended the Elkhorn residential school in Manitoba, described the experience as a systematic attack on her identity as a Cree person.
@@ -196,7 +191,7 @@ Aboriginal people also have incomes well below their non-Aboriginal counterparts
 The proportion of Aboriginal adults below the poverty line, regardless of age and gender, is much higher than that of non-Aboriginal adults, with differences ranging from 7.8% for adult men aged sixty-five or older, to 22.5% for adult women aged sixty-five or older.<sup>54</sup> The depth of poverty is also much greater, with Aboriginal people having an average income that falls further below the poverty line on average than that of non-Aboriginal adults, and their poverty is more likely to have persisted for a significant period of time.<sup>55</sup>
 
 > **Call to Action**
-
+>
 > 7) We call upon the federal government to develop with Aboriginal groups a joint strategy to eliminate educational and employment gaps between Aboriginal and non-Aboriginal Canadians.
 
 ### Funding inequities
@@ -212,9 +207,9 @@ The funding formula for First Nations schools was last updated in 1996, and does
 In many cases, the fees that First Nations are charged when they send their children to provincial schools are higher than the amount of funding they receive from Canada per student.<sup>63</sup>
 
 > **Calls to Action**
-
+>
 > 8) We call upon the federal government to eliminate the discrepancy in federal education funding for First Nations children being educated on reserves and those First Nations children being educated off reserves.
-
+>
 > 9) We call upon the federal government to prepare and publish annual reports comparing funding for the education of First Nations children on and off reserves, as well as educational and income attainments of Aboriginal peoples in Canada compared with non-Aboriginal people.
 
 ### Education reform
@@ -228,7 +223,7 @@ Based on all that it has heard from thousands of former students and family memb
 > The current education system has been designed to completely eradicate who I am and to kill that Indian Mi’kmaq spirit that’s in me. But I do know I need knowledge and I need education. But the kind of education I need has to be reflective of who I am as a Mi’kmaq. And that knowledge that I get, that I will receive, I have a responsibility with that knowledge to pass it down so others will benefit from it.... The kind of legacy that I want to leave my children in the future generations is one of which they will be able to excel, they will be able to compete without having to worry about is the education system going to further eradicate their selves.<sup>65</sup>
 
 > **Call to Action**
-
+>
 > 10) We call upon the federal government to draft new Aboriginal education legislation with the full participation and informed consent of Aboriginal peoples. The new legislation would include a commitment to sufficient funding and would incorporate the following principles: i.  Providing sufficient funding to close identified educational achievement gaps within one generation. ii.  Improving education attainment levels and success rates. iii.  Developing culturally appropriate curricula. iv.  Protecting the right to Aboriginal languages, including the teaching of Aboriginal languages as credit courses. v. Enabling parental and community responsibility, control, and accountability, similar to what parents enjoy in public school systems. vi. Enabling parents to fully participate in the education of their children. vii. Respecting and honouring Treaty relationships.
 
 ### Métis and Inuit education
@@ -243,14 +238,14 @@ Another major problem is the lack of supports both within and outside the educat
 
 To help close the income and employment gap, Aboriginal people need increased access to post-secondary education. Only 8.7% of First Nations people, 5.1% of Inuit, and 11.7% of Métis have a university degree, according to the 2011 census.<sup>71</sup> The federal auditor general has commented: “In 2004, we noted that at existing rates, it would take 28 years for First Nations communities to reach the national average. More recent trends suggest that the time needed may be still longer.”<sup>72</sup> The barriers to post-secondary education have had profound effects. Geraldine Bob attended residential school at Kamloops, British Columbia. She told the Commission at a Community Hearing in Fort Simpson, Northwest Territories, that poor education and negative experiences at residential school delayed her attendance at university and her entry into the workforce as a teacher. She suggested that
 
-	the residential school system owes me those lost years. You know, I lost my retirement; I have to keep working, I don’t have a good retirement fund because it was so late when I went to school. And I’ve proven that I can go to university and be successful as a teacher. So … that little tiny bit of Common Experience Payment doesn’t compensate for all that loss.<sup>73</sup>
+> the residential school system owes me those lost years. You know, I lost my retirement; I have to keep working, I don’t have a good retirement fund because it was so late when I went to school. And I’ve proven that I can go to university and be successful as a teacher. So … that little tiny bit of Common Experience Payment doesn’t compensate for all that loss.<sup>73</sup>
 
 Almost no one with some university or college education who spoke to the Commission had been able to obtain that education directly after high school. Most, like Geraldine Bob, had lost years to the time it took them to heal enough to even consider the possibility of upgrading their schooling.
 
 If access to post-secondary education is to be improved, increasing the rates of secondary school completion is an important step. But even for those who qualify for a university program, there are significant obstacles. Federal funding for post-secondary education suffers from the same 2% funding cap that has been imposed on elementary and secondary schools since 1996. The First Nations Education Council estimates that there is a backlog of over 10,000 First Nations students waiting for post-secondary funding, with an additional $234 million required to erase that backlog and meet current demands.<sup>74</sup> The financial barriers and other difficulties that Aboriginal people face in attending post-secondary institutions deprive the Canadian workforce of the social workers, teachers, health-care workers, tradespeople, legal professionals, and others who can help address the legacy of residential schools.
 
-	**Call to Action**
-
+> **Call to Action**
+>
 > 11) We call upon the federal government to provide adequate funding to end the backlog of First Nations students seeking a post-secondary education.
 
 ### Early childhood education programs
@@ -258,7 +253,7 @@ If access to post-secondary education is to be improved, increasing the rates of
 Aboriginal families continue to suffer from a general lack of early childhood education programs. The Assembly of First Nations reported that, according to 2011 data, 78% of children up to the age of five have no access to licensed daycare, let alone to intensive early childhood programs.<sup>75</sup> Such programs are vital to support the development of young children and, by extension, address some of the deficit in parenting skills that is the legacy of residential schools.
 
 > **Call to Action**
-
+>
 > 12) We call upon the federal, provincial, territorial, and Aboriginal governments to develop culturally appropriate early childhood education programs for Aboriginal families.
 
 To close the education and income gaps, there needs to be stable and adequate funding of Aboriginal education that takes into account the challenges of the legacy of residential schools as well as other challenges faced by Aboriginal people. In addition to fair and adequate funding, there is also a need to maximize Aboriginal control over Aboriginal education, and to facilitate instruction in Aboriginal cultures and languages. These educational measures will offer a realistic prospect of reconciliation on the basis of equality and respect.
@@ -296,7 +291,7 @@ Some languages are close to extinction because they have only a few remaining sp
 In interpreting Aboriginal and Treaty rights under Section 35(1) of the Constitution Act, 1982, the Supreme Court of Canada has stressed the relation of those rights to the preservation of distinct Aboriginal cultures.<sup>88</sup> The Commission concurs. The preservation of Aboriginal languages is essential and must be recognized as a right.
 
 > **Call to Action**
-
+>
 > 13) We call upon the federal government to acknowledge that Aboriginal rights include Aboriginal language rights.
 
 ### Government programs
@@ -307,28 +302,23 @@ Other than ALI, the only significant programs for language preservation are the 
 
 The combined total annual federal budget for these Aboriginal languages programs is $9.1 million. By way of comparison, the Official Languages Program for English and French is projected to receive funding as follows:
 
-- 2012–13: $353.3 million  
-- 2013–14: $348.2 million  
-- 2014–15: $348.2 million.<sup>93</sup>  
+
+
+
 
 The resources committed to Aboriginal language programs are far fewer than what is committed to French in areas where French speakers are in the minority. For example, the federal government provides support to the small minority of francophones in Nunavut in the amount of approximately $4,000 per individual annually. In contrast, funding to support Inuit-language initiatives is estimated at $44 per Inuk per year.<sup>94</sup>
 
 The Commission believes that a multi-pronged approach to Aboriginal language preservation—if implemented, honourably resourced, and sustained— might prevent further increase in the litigation of Aboriginal language rights, and the increased international criticism of Canada’s policy towards Aboriginal-language rights. This approach will require full, good-faith consultation, which recognizes that although Aboriginal communities have the necessary knowledge, particularly among their Elders, to preserve their own languages, additional support is needed. The outcome of the consultation should be legislation and policies that affirm the importance of Canada’s Indigenous languages, and allocate adequate funding to ensure their preservation.
 
 > **Calls to Action**
-
+>
 > 14) We call upon the federal government to enact an Aboriginal Languages Act that incorporates the following principles:
-
 > i. Aboriginal languages are a fundamental and valued element of Canadian culture and society, and there is an urgency to preserve them.
-
 > ii. Aboriginal language rights are reinforced by the Treaties.
-
 > iii. The federal government has a responsibility to provide sufficient funds for Aboriginal-language revitalization and preservation.
-
 > iv. The preservation, revitalization, and strengthening of Aboriginal languages and cultures are best managed by Aboriginal people and communities.
-
 > v. Funding for Aboriginal language initiatives must reflect the diversity of Aboriginal languages.
-
+>
 > 15) We call upon the federal government to appoint, in consultation with Aboriginal groups, an Aboriginal Languages Commissioner. The commissioner should help promote Aboriginal languages and report on the adequacy of federal funding of Aboriginal-languages initiatives.
 
 In addition to promoting the use of Aboriginal languages, an Aboriginal Languages Commissioner would also educate non-Aboriginal Canadians about the richness and value of Aboriginal languages and how strengthening those languages can enhance Canada’s international reputation.
@@ -340,7 +330,7 @@ Aboriginal people recognize how important it is for their children to speak and 
 Language instruction may require innovative approaches, including the use of Elders and others as teachers and the use of immersion programs. Education institutions must be flexible and responsive in their attempts to encourage the teaching of Aboriginal languages. They should be prepared to draw on the available resources within Aboriginal communities to facilitate the teaching and transmission of Aboriginal languages. More formal training opportunities are also required.
 
 > **Call to Action**
-
+>
 > 16) We call upon post-secondary institutions to create university and college degree and diploma programs in Aboriginal languages.
 
 ### Reclaiming names
@@ -348,7 +338,7 @@ Language instruction may require innovative approaches, including the use of Eld
 As a result of the residential school experience, many Aboriginal people lost their language and lost touch with their culture. Many also suffered a loss of a different sort. It was common for residential school officials to give students new names. At the Aklavik Anglican school in the Northwest Territories, a young Inuit girl named Masak became “Alice”—she would not hear her old name until she returned home.<sup>96</sup> At the Qu’Appelle school in Saskatchewan, Ochankugahe (Path Maker) became Daniel Kennedy, named for the biblical Daniel, and Adélard Standing Buffalo was named for Adélard Langevin, the Archbishop of St. Boniface.<sup>97</sup> Survivors and their families who have sought to reclaim the names that were taken from them in residential schools have found the process to be both expensive and time consuming. We believe that measures should be put in place to reduce the burden placed on those who seek to reclaim this significant portion of their heritage.
 
 > **Call to Action**
-
+>
 > 17) We call upon all levels of government to enable residential school Survivors and their families to reclaim names changed by the residential school system by waiving administrative costs for a period of five years for the name-change process and the revision of official identity documents, such as birth certificates, passports, driver’s licenses, health cards, status cards, and social insurance numbers.
 
 ## Health
@@ -374,7 +364,7 @@ Health care is a right enshrined in international and constitutional law as well
 The Numbered Treaties also established additional legal obligations concerning Aboriginal health and wellness.<sup>104</sup> The right to medical care was recognized in Treaties 6, 7, 8, 10, and 11.<sup>105</sup> Treaty 6 explicitly included provision of a “medicine chest” and relief from “pestilence.”<sup>106</sup> However, the right to health is not limited to these Treaties. The Treaty negotiations included many references to the protection of, and non-interference with, traditional ways of life.<sup>107</sup>
 
 > **Call to Action**
-
+>
 > 18) We call upon the federal, provincial, territorial, and Aboriginal governments to acknowledge that the current state of Aboriginal health in Canada is a direct result of previous Canadian government policies, including residential schools, and to recognize and implement the health-care rights of Aboriginal people as identified in international law and constitutional law, and under the Treaties.
 
 ### The health gap
@@ -396,7 +386,7 @@ The overall suicide rate among First Nation communities is about twice that of t
 Obtaining precise information on the state of health of Aboriginal people in Canada is difficult. The most complete information about comparative health outcomes is out of date, much of it coming from the 1990s. Unlike in other countries, the Canadian government has not provided a comprehensive list of well-being indicators comparing Aboriginal and non-Aboriginal populations. The lack of accessible data on comparable health indicators means that these issues receive less public, media, and political attention. In Australia, the government has set a timeline for closing the gap in health outcomes between Aboriginal and non-Aboriginal citizens. The Australian prime minister reports annually on the progress being made to close the gaps in targets related to life expectancy and mortality rates for Indigenous children.<sup>113</sup> Canada must do likewise.
 
 > **Call to Action**
-
+>
 > 19) We call upon the federal government, in consultation with Aboriginal peoples, to establish measurable goals to identify and close the gaps in health outcomes between Aboriginal and non-Aboriginal communities, and to publish annual progress reports and assess long-term trends. Such efforts would focus on indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.
 
 In 2003, the First Ministers’ Accord on Health Care Renewal recognized the obvious: that Aboriginal peoples face serious health challenges. The accord committed to making the reduction of the gap in health status between Aboriginal and non-Aboriginal peoples a national priority. More than a decade later, that gap remains. In fact, the federal government has moved backwards on issues of Aboriginal health since the signing of the Indian Residential Schools Settlement Agreement and Canada’s apology to Survivors. It has terminated funding to a number of Aboriginal health organizations, including the Aboriginal Healing Foundation and the National Aboriginal Health Organization. These organizations were committed to models of research and treatment in which Aboriginal communities have ownership, control, access, and possession. Their loss significantly limits the development of accurate information about health issues and solutions under Aboriginal control. Health Canada has also cut funding for a number of Aboriginal primary health programs, including programs that address diabetes, fetal alcohol spectrum disorder, youth suicide, infectious diseases, and maternal and child health.<sup>114</sup> These cuts have had a serious impact on Aboriginal communities.
@@ -412,7 +402,7 @@ A former student at Guy Hill residential school in Manitoba, M. R. E. Linklater,
 Health reforms often involve Aboriginal people in complex jurisdictional disputes and tripartite negotiations with both the federal and provincial or territorial governments. Such jurisdictional disputes have particularly affected Métis, non-status, and urban Aboriginal people, as the federal government insists that providing services to these groups is a provincial and territorial responsibility.
 
 > **Call to Action**
-
+>
 > 20) In order to address the jurisdictional disputes concerning Aboriginal people who do not reside on reserves, we call upon the federal government to recognize, respect, and address the distinct health needs of the Métis, Inuit, and off-reserve Aboriginal peoples.
 
 ### Aboriginal healing practices
@@ -420,19 +410,19 @@ Health reforms often involve Aboriginal people in complex jurisdictional dispute
 Aboriginal health practices and beliefs, like Aboriginal peoples themselves, are diverse. However, an holistic approach to health is common to many Aboriginal cultures and has also been increasingly validated by ‘Western’ medicine. A belief shared among many Inuit, Métis, and First Nation people is that a sacred connection exists among people, the Earth, and everything above it, upon it, and within it. For purposes of healing, this means activities such as “on-the-land” or “bush” healing camps where participants can experience the healing power of the natural world. Traditional practices can also include sweat lodges, cedar baths, smudging, the lighting of the Qulliq (a stone lamp used by the Inuit for ceremonial purposes), and other spiritual ceremonies.<sup>117</sup> Best practices for Aboriginal wellness involve a range of services from mainstream health care to traditional practices and medicines, all under community leadership and control. Such an integrated approach has the power to improve the lives of all community members.
 
 > **Calls to Action**
-
+>
 > 21) We call upon the federal government to provide sustainable funding for existing and new Aboriginal healing centres to address the physical, mental, emotional, and spiritual harms caused by residential schools, and to ensure that the funding of healing centres in Nunavut and the Northwest Territories is a priority. 22) We call upon those who can effect change within the Canadian health-care system to recognize the value of Aboriginal healing practices and use them in the treatment of Aboriginal patients in collaboration with Aboriginal healers and Elders where requested by Aboriginal patients.
 
 Overcoming the health legacy of the residential schools will require a long-term investment in Aboriginal communities, so that communities can revive their capacity to heal themselves. One key investment will be the training of more Aboriginal health and social service professionals. The work that Health Canada’s community cultural and traditional knowledge healing team members did in support of this Commission and other Settlement Agreement processes is but one example of the invaluable service these professionals can provide.
 
 > **Call to Action**
-
+>
 > 23) We call upon all levels of government to: i. Increase the number of Aboriginal professionals working in the healthcare field. ii. Ensure the retention of Aboriginal health-care providers in Aboriginal communities. iii. Provide cultural competency training for all health-care professionals.
 
 Closing the gap in health outcomes will come about only as part of a comprehensive strategy of change. To be more effective in improving health outcomes, non-Aboriginal medical practitioners must develop a better understanding of the health issues facing Canada’s Aboriginal peoples and of the legacy of residential schools.
 
 > **Call to Action**
-
+>
 > 24) We call upon medical and nursing schools in Canada to require all students to take a course dealing with Aboriginal health issues, including the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, and Indigenous teachings and practices. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
 ## Justice
@@ -450,7 +440,7 @@ In late 1994, the RCMP established the E Division Task Force to investigate alle
 Affidavits filed by RCMP officers suggest that the federal government’s interest in defending itself in civil litigation interfered with police investigations into crimes committed at the residential schools. Although a judge eventually ordered that Survivors should have the same access to RCMP criminal investigation material regarding offences at the Kuper Island school as the government, the whole affair meant Survivors could reasonably conclude that the RCMP was acting as an agent of the federal government, rather than as an impartial enforcer of the law.<sup>120</sup>
 
 > **Call to Action**
-
+>
 > 25) We call upon the federal government to establish a written policy that reaffirms the independence of the Royal Canadian Mounted Police to investigate crimes in which the government has its own interest as a potential or real party in civil litigation.
 
 ### Unnecessary insistence on corroboration
@@ -478,7 +468,7 @@ Within the Canadian justice system, complainants in civil proceedings have a lim
 A statute of limitation defence has to be raised by the defendant. In its 2000 report on responding to child abuse in institutions, the Law Commission of Canada recommended that the federal government should not rely solely on statute of limitation defences.<sup>125</sup> Nevertheless, the Government of Canada and the churches have frequently and successfully raised these defences in residential school litigation. The Commission believes that the federal government’s successful use of statute of limitation defences has meant that Canadian courts and Canadians in general have considered only a small part of the harms of residential schools, mostly those caused by sexual abuse. Some provinces have amended their limitation statutes to enable civil prosecutions for a wider range of offences. We urge others to follow suit.
 
 > **Call to Action**
-
+>
 > 26) We call upon the federal, provincial, and territorial governments to review and amend their respective statutes of limitations to ensure that they conform with the principle that governments and other entities cannot rely on limitation defences to defend legal actions of historical abuse brought by Aboriginal people.
 
 ### Educating lawyers
@@ -486,7 +476,7 @@ A statute of limitation defence has to be raised by the defendant. In its 2000 r
 The criminal prosecution of abusers in residential schools and the subsequent civil lawsuits were a difficult experience for Survivors. The courtroom experience was made worse by the fact that many lawyers did not have adequate cultural, historical, or psychological knowledge to deal with the painful memories that the Survivors were forced to reveal. The lack of sensitivity that lawyers often demonstrated in dealing with residential school Survivors resulted, in some cases, in the Survivors’ not receiving appropriate legal service. These experiences prove the need for lawyers to develop a greater understanding of Aboriginal history and culture as well as the multi-faceted legacy of residential schools.
 
 > **Calls to Action**
-
+>
 > 27) We call upon the Federation of Law Societies of Canada to ensure that lawyers receive appropriate cultural competency training, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism. 28) We call upon law schools in Canada to require all law students to take a course in Aboriginal people and the law, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
 ### Aftermath of the Settlement Agreement
@@ -512,7 +502,7 @@ Other claimants, such as Amelia Galligos-Thomas, a former student at Sechelt res
 Not all Survivors of residential school abuse were included in the Settlement Agreement. For example, day school students, many Métis students, and pupils from schools in Newfoundland and Labrador have been excluded, as have students who attended government-funded schools that were not identified as residential schools. These exclusions have led to new civil lawsuits against the government. The Commission urges all parties to seek expedited means of resolving this litigation.
 
 > **Call to Action**
-
+>
 > 29) We call upon the parties and, in particular, the federal government, to work collaboratively with plaintiffs not included in the Indian Residential Schools Settlement Agreement to have disputed legal issues determined expeditiously on an agreed set of facts.
 
 ### Overrepresentation of Aboriginal people in prison
@@ -540,7 +530,7 @@ Grace Campbell is an intergenerational Survivor.
 Action is required now to overcome the legacy of residential schools that has played a major role in the over-incarceration of Aboriginal people.
 
 > **Call to Action**
-
+>
 > 30) We call upon federal, provincial, and territorial governments to commit to eliminating the overrepresentation of Aboriginal people in custody over the next decade, and to issue detailed annual reports that monitor and evaluate progress in doing so.
 
 ### Community programs
@@ -556,7 +546,7 @@ In 2012, the Supreme Court revisited and reaffirmed Gladue. In R. v. Ipeelee, th
 Even if excellent Gladue reports were prepared from coast to coast, they would still fail to make a difference in the amount of Aboriginal overrepresentation in the prison system without the addition of realistic alternatives to imprisonment, including adequate resources for intensive community programs that can respond to the conditions that caused Aboriginal offending.
 
 > **Call to Action**:
-
+>
 > 31) We call upon the federal, provincial, and territorial governments to provide sufficient and stable funding to implement and evaluate community sanctions that will provide realistic alternatives to imprisonment for Aboriginal offenders and respond to the underlying causes of offending.
 
 A failure to provide sufficient and stable resources for the community and treatment programs that are necessary to implement Gladue and Ipeelee helps explain why those decisions have not slowed increasing Aboriginal overrepresentation in prison. In addition to these significant challenges, there are now new barriers to implementing effective and just alternative sentences for Aboriginal offenders.
@@ -568,7 +558,7 @@ One of the most dramatic examples of the trend towards mandatory minimum sentenc
 Bill C-10 and other similar Criminal Code amendments have undermined the 1996 reforms that required judges to consider all reasonable alternatives to imprisonment, with particular attention to the circumstances of Aboriginal offenders. The Commission believes that the recent introduction of mandatory minimum sentences and restrictions on conditional sentences will increase Aboriginal overrepresentation in prison. Such developments are preventing judges from implementing community sanctions even when they are consistent with the safety of the community and even when they have a much greater potential than imprisonment to respond to the intergenerational legacy of residential schools that often results in offences by Aboriginal persons.<sup>141</sup>
 
 > **Call to Action**
-
+>
 > 32) We call upon the federal government to amend the Criminal Code to allow trial judges, upon giving reasons, to depart from mandatory minimum sentences and restrictions on the use of conditional sentences.
 
 ### Offenders with FASD
@@ -578,7 +568,7 @@ There is another link between the substance abuse that has plagued many resident
 About 1% of Canadian children are born with some form of disability related to prenatal alcohol consumption, but estimates from Canada and the United States suggest that 15% to 20% of prisoners have FASD.<sup>145</sup> A recent Canadian study found that offenders with FASD had much higher rates of criminal involvement than those without FASD, including more juvenile and adult convictions.<sup>146</sup> The Commission believes there is a need to take urgent measures both to prevent FASD and to better manage its harmful consequences. There is a clear need in Aboriginal communities for more programming that addresses the problems of addiction and FASD.
 
 > **Call to Action**
-
+>
 > 33) We call upon the federal, provincial, and territorial governments to recognize as a high priority the need to address and prevent Fetal Alcohol Spectrum Disorder (FASD), and to develop, in collaboration with Aboriginal people, FASD preventive programs that can be delivered in a culturally appropriate manner.
 
 It is challenging for courts to deal with offenders with FASD, because obtaining an official diagnosis entails a long and costly process of multidisciplinary referrals. Even if trial judges have been educated about the symptoms of FASD, they are generally unable to take notice of FASD without evidence of a diagnosis.<sup>147</sup> Clearly, better diagnostic tools are needed, accompanied by sufficient resources for intensive community programs as realistic alternatives to jail and as support for people living with FASD to avoid repeated conflicts with the law.
@@ -586,15 +576,11 @@ It is challenging for courts to deal with offenders with FASD, because obtaining
 The recent enactment of mandatory minimum sentences for some offences further complicates the situation of offenders with FASD because it denies judges the flexibility to consider individual circumstances in their sentencing. There is a danger that prison will be used unnecessarily as another expensive crisis intervention for Aboriginal offenders with FASD, even though culturally appropriate supports in the community could often be a more appropriate approach.<sup>148</sup> As well as amending mandatory minimum sentencing laws, the federal government can do much more to tailor correctional and parole resources to facilitate the reintegration of offenders with FASD into their communities.
 
 > **Call to Action**
-
+>
 > 34) We call upon the governments of Canada, the provinces, and territories to undertake reforms to the criminal justice system to better address the needs of offenders with Fetal Alcohol Spectrum Disorder (FASD), including:
-
 > i.  Providing increased community resources and powers for courts to ensure that FASD is properly diagnosed, and that appropriate community supports are in place for those with FASD.
-
 > ii.  Enacting statutory exemptions from mandatory minimum sentences of imprisonment for offenders affected by FASD.
-
 > iii.  Providing community, correctional, and parole resources to maximize the ability of people with FASD to live in the community.
-
 > iv.  Adopting appropriate evaluation mechanisms to measure the effectiveness of such programs and ensure community safety.
 
 ### Cultural services in prisons and jails
@@ -608,7 +594,7 @@ The need for cultural programs in jail was expressed by a former residential sch
 There are some federal programs that appear to be working, but Aboriginal inmates do not have access to these programs in all parts of the country. For example, although Aboriginal healing lodges within correctional facilities have great potential to assist Aboriginal inmates, there are only four such lodges run by Correctional Services Canada and four run by Aboriginal communities under Section 81 of the Corrections and Conditional Release Act.<sup>153</sup> Lack of funding and difficulties in recruiting and training staff are obstacles to successful expansion of the healing lodge resources. In addition, prisoners must be classified as “minimum security” to be eligible, and 90% of Aboriginal inmates are assigned “medium” or “maximum” security classifications.
 
 > **Calls to Action**
-
+>
 > 35) We call upon the federal government to eliminate barriers to the creation of additional Aboriginal healing lodges within the federal correctional system. 36) We call upon the federal, provincial, and territorial governments to work with Aboriginal communities to provide culturally relevant services to inmates on issues such as substance abuse, family and domestic violence, and overcoming the experience of having been sexually abused.
 
 ### Parole and community supports
@@ -618,7 +604,7 @@ Aboriginal offenders face many challenges in obtaining parole from prison and be
 When the National Parole Board grants parole, correctional programming continues. The early stages of parole are often spent in a residential correctional facility: a halfway house. Although it is not a prison, a halfway house requires the offender to reside there and not be absent except under specific exceptions (for example, supervised absences or employment). It is intended as a transitional phase in an offender’s parole, neither full incarceration nor full freedom in the community, with the goal of gradual reintegration into the community. Unfortunately, there are too few halfway houses that provide programming specifically for Aboriginal offenders.
 
 > **Call to Action**
-
+>
 > 37) We call upon the federal government to provide more supports for Aboriginal programming in halfway houses and parole services.
 
 ### Overrepresentation of youth
@@ -630,7 +616,7 @@ By many objective measures, the Youth Criminal Justice Act has been a success. S
 The growing overrepresentation of Aboriginal youth in custody mirrors and is likely related to the even more dramatic overrepresentation of Aboriginal children in the care of child-welfare agencies. Research in British Columbia found that 35.5% of youth in care are also involved in the youth justice system, as compared with only 4.4% of youth who are not in care.<sup>159</sup> The Commission believes that there are ways to reduce the growing overrepresentation of Aboriginal youth, but that they will be found primarily outside the justice system. There is an urgent need to support Aboriginal families and alleviate the poverty experienced by many Aboriginal communities. The federal government should take the lead by committing the resources necessary to eliminating the overrepresentation of Aboriginal children and youth in care and custody. Part of that commitment should include collecting and publishing better data to measure progress.
 
 > **Call to Action**
-
+>
 > 38) We call upon the federal, provincial, territorial, and Aboriginal governments to commit to eliminating the overrepresentation of Aboriginal youth in custody over the next decade.
 
 ### Victimization of Aboriginal people
@@ -646,13 +632,13 @@ The statistics are startling. Aboriginal people are 58% more likely to be victim
 It is difficult to obtain accurate information about the rate of victimization in Aboriginal communities. According to some studies, less than one-third of victims of crime report their victimization to police, and police forces across the country do not have a consistent method for recording the Aboriginal identity of victims.<sup>164</sup> Statistics Canada does not provide the kinds of supports necessary to permit some Aboriginal victims to comfortably disclose their experience to researchers. The most recent Statistics Canada data on homicide and family violence fail to report how many victims were Aboriginal, although older data suggest the homicide victimization rate of Aboriginal people between 1997 and 2000 was seven times that of non-Aboriginal people.<sup>165</sup>
 
 > **Call to Action**
-
+>
 > 39) We call upon the federal government to develop a national plan to collect and publish data on the criminal victimization of Aboriginal people, including data related to homicide and family violence victimization.
 
 This data should be used to guide the development and funding of culturally appropriate services for Aboriginal victims of crime and to help make measureable reductions in the overrepresentation of Aboriginal people among crime victims.
 
 > **Call to Action**
-
+>
 > 40) We call upon all levels of government, in collaboration with Aboriginal people, to create adequately funded and accessible Aboriginal-specific victim programs and services with appropriate evaluation mechanisms.
 
 ### Violence against Aboriginal women and girls
@@ -668,11 +654,9 @@ The most disturbing aspect of this victimization is the extraordinary number of 
 More research is needed, but the available information suggests a devastating link between the large numbers of missing and murdered Aboriginal women and the many harmful background factors in their lives. These include: overrepresentation of Aboriginal children in child-welfare care; domestic and sexual violence; racism, poverty, and poor educational and health opportunities in Aboriginal communities; discriminatory practices against women related to band membership and Indian status; and inadequate supports for Aboriginal people in cities. This complex interplay of factors—many of which are part of the legacy of residential schools—needs to be examined, as does the lack of success of police forces in solving these crimes against Aboriginal women.
 
 > **Call to Action**
-
+>
 > 41) We call upon the federal government, in consultation with Aboriginal organizations, to appoint a public inquiry into the causes of, and remedies for, the disproportionate victimization of Aboriginal women and girls. The inquiry’s mandate would include:
-
 > i. Investigation into missing and murdered Aboriginal women and girls.
-
 > ii. Links to the intergenerational legacy of residential schools.
 
 ### Strategies for change
@@ -682,7 +666,7 @@ Multi-pronged strategies are necessary to respond to the harmful legacy of resid
 Any strategy aimed at reducing Aboriginal offending and victimization must also include recognition of the rights of Aboriginal communities to develop their own justice systems as part of a larger commitment to Aboriginal self-determination and self-government. These rights are grounded in international and constitutional law as well as in the Treaties. Aboriginal forms of justice may be as diverse as Canada’s Aboriginal peoples themselves. It is a central conclusion of the Truth and Reconciliation Commission of Canada that recognition of the Aboriginal right to self-determination, more appropriate funding allocations for services from governments, and methodical tracking of progress are the preconditions for redressing the disastrous legacy of residential schools and aiding the long process of reconciliation within Canada.
 
 > **Call to Action**
-
+>
 > 42) We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the United Nations Declaration on the Rights of Indigenous Peoples, endorsed by Canada in November 2012.
 
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed. Governments in Canada spend billions of dollars each year in responding to the symptoms of the intergenerational trauma of residential schools. Much of this money is spent on crisis interventions related to child welfare, family violence, ill health, and crime. Despite genuine reform efforts, the dramatic overrepresentation of Aboriginal children in foster care, and among the sick, the injured, and the imprisoned, continues to grow. Only a real commitment to reconciliation will reverse the trend and lay the foundation for a truly just and equitable nation.
