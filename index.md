@@ -16,7 +16,7 @@ Learn more about this project on [Github](https://github.com/nevillepark/trc).
 2. [Introduction](/trc/introduction) [[plaintext](/txt/introduction.txt)]
 3. [Commission activities](/trc/commission-activities) [[plaintext](/txt/commission-activities.txt)]
 4. [The history](/trc/history) [[plaintext](/txt/history.txt)]
-5. The legacy
+5. [The legacy](/trc/legacy) [[plaintext](/txt/legacy.txt)]
 6. The challenge of reconciliation
 7. [Calls to Action](/trc/calls-to-action) [[plaintext](/txt/calls-to-action.txt)]
 8. Appendices
