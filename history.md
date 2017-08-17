@@ -1,4 +1,4 @@
-&rarr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Legacy](/trc/legacy) &rarr;
+&larr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Legacy](/trc/legacy) &rarr;
 
 _________________________________
 
