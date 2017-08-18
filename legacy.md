@@ -1,4 +1,5 @@
 &larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: The challenge of reconciliation &rarr;
+_______________________
 
 # The legacy
 
@@ -689,3 +690,7 @@ Any strategy aimed at reducing Aboriginal offending and victimization must also 
 > 42) We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the United Nations Declaration on the Rights of Indigenous Peoples, endorsed by Canada in November 2012.
 
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed. Governments in Canada spend billions of dollars each year in responding to the symptoms of the intergenerational trauma of residential schools. Much of this money is spent on crisis interventions related to child welfare, family violence, ill health, and crime. Despite genuine reform efforts, the dramatic overrepresentation of Aboriginal children in foster care, and among the sick, the injured, and the imprisoned, continues to grow. Only a real commitment to reconciliation will reverse the trend and lay the foundation for a truly just and equitable nation.
+
+________________________
+
+&larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: The challenge of reconciliation &rarr;
