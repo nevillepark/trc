@@ -777,4 +777,4 @@ Despite being subjected to aggressive assimilation policies for nearly 200 years
 
 ____________________________
 
-&rarr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Legacy &rarr;
+&larr; Back: [Commission activities](/trc/commission-activities) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Legacy](/trc/legacy) &rarr;
