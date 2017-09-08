@@ -44,20 +44,36 @@ To test, select a few pages and append ``` - ``` instead of a filename so it pri
 | Footnotes, Markdown | `\^(\d+)` | `<sup>$1</sup>` | Find a way to exclude dollar figures, percents, pop'n figures, etc. |
 | Paragraph breaks | `\n\ {3,}` | `\n\n` | |
 | Hyphenated words | `\b-\n` | |
-| Acronyms | `\bACRONYM\b` | |
 
 ### Common acronyms
 
-- ALI
-- CEP
-- FASD
-- IAP
-- IRSSA
-- IRSSC
-- NCTR
-- OPP
-- RCMP
-- TRC
+Abbreviations and acronyms are in small caps in the PDF and are output in lowercase in the text file. To convert them all to uppercase in one go, I created a script called `abbr` in my `~/.local/bin` directory with the search-and-replace expressions:
+
+```
+# Capitalizes common abbreviations/acronyms found in the TRC report
+s/\bajr\b/AJR/g
+s/\bali\b/ALI/g
+s/\bcbc\b/CBC/g
+s/\bcep\b/CEP/g
+s/\bcmhr\b/CMHR/g
+s/\bfasd\b/FASD/g
+s/\biap\b/IAP/g
+s/\birssa\b/IRSSA/g
+s/\birssc\b/IRSSC/g
+s/\blac\b/LAC/g
+s/\bnctr\b/NCTR/g
+s/\bopp\b/OPP/g
+s/\brcap\b/RCAP/g
+s/\brcmp\b/RCMP/g
+s/\btrc\b/TRC/g
+s/\bun\b/UN/g
+s/\bwcc\b/WCC/g
+s/\bwcip\b/WCIP/g
+```
+
+Then ran the command
+
+`sed -f abbr <original-file.txt >new-file.txt`.
 
 ## Preparing .txt version
 
