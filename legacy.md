@@ -1,4 +1,5 @@
 &larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: The challenge of reconciliation &rarr;
+
 _______________________
 
 # The legacy
