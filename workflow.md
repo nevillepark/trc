@@ -51,7 +51,7 @@ To test, select a few pages and append ` - ` instead of a filename so it prints 
 
 ### Common acronyms
 
-Abbreviations and acronyms are in small caps in the PDF and are output in lowercase in the text file. To convert them all to uppercase in one go, I created a script called `abbr` in my `~/.local/bin` directory with the search-and-replace expressions, with the pattern
+Abbreviations and acronyms are in small caps in the PDF and are output in lowercase in the text file. To convert them all to uppercase in one go, I created [a file called `abbr`](abbr) in my `~/.local/bin` directory with the search-and-replace expressions, with the pattern
 
 `s/\babbreviation\b/ABBREVIATION/g`
 
