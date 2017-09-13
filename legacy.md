@@ -1,4 +1,4 @@
-&larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: The challenge of reconciliation &rarr;
+&larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [The challenge of reconciliation](/trc/challenge) &rarr;
 
 _______________________
 
@@ -95,11 +95,11 @@ Researchers suggest that clear standards are needed to guide apprehensions, and 
 
 > **Call to Action**
 >
-> 1) We call upon the federal, provincial, territorial, and Aboriginal governments to commit to reducing the number of Aboriginal children in care by:  
-> i.  Monitoring and assessing neglect investigations.  
-> ii.  Providing adequate resources to enable Aboriginal communities and child-welfare organizations to keep Aboriginal families together where it is safe to do so, and to keep children in culturally appropriate environments, regardless of where they reside.  
-> iii. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the history and impacts of residential schools.  
-> iv. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the potential for Aboriginal communities and families to provide more appropriate solutions to family healing.  
+> 1) We call upon the federal, provincial, territorial, and Aboriginal governments to commit to reducing the number of Aboriginal children in care by:
+> i.  Monitoring and assessing neglect investigations.
+> ii.  Providing adequate resources to enable Aboriginal communities and child-welfare organizations to keep Aboriginal families together where it is safe to do so, and to keep children in culturally appropriate environments, regardless of where they reside.
+> iii. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the history and impacts of residential schools.
+> iv. Ensuring that social workers and others who conduct child-welfare investigations are properly educated and trained about the potential for Aboriginal communities and families to provide more appropriate solutions to family healing.
 > v. Requiring that all child-welfare decision makers consider the impact of the residential school experience on children and their caregivers. Better research and data are also required in order to monitor and develop strategies to reduce the overrepresentation of Aboriginal children in care.
 
 > **Call to Action**
@@ -148,9 +148,9 @@ Canada has rejected First Nations’ demands to operate services in accordance w
 
 > **Call to Action**
 >
-> 4) We call upon the federal government to enact Aboriginal child-welfare legislation that establishes national standards for Aboriginal child apprehension and custody cases and includes principles that:  
-> i. Affirm the right of Aboriginal governments to establish and maintain their own child-welfare agencies.  
-> ii. Require all child-welfare agencies and courts to take the residential school legacy into account in their decision making.  
+> 4) We call upon the federal government to enact Aboriginal child-welfare legislation that establishes national standards for Aboriginal child apprehension and custody cases and includes principles that:
+> i. Affirm the right of Aboriginal governments to establish and maintain their own child-welfare agencies.
+> ii. Require all child-welfare agencies and courts to take the residential school legacy into account in their decision making.
 > iii. Establish, as an important priority, a requirement that placements of Aboriginal children into temporary and permanent care be culturally appropriate.
 
 There is also a human dimension to improving outcomes for Aboriginal children. The intergenerational impact of the residential school experience has left some families without strong role models for parenting. An investment in culturally appropriate programs in Aboriginal communities has the potential to improve parenting skills and enable more children to grow up safely in their own families and communities.
@@ -229,14 +229,14 @@ Based on all that it has heard from thousands of former students and family memb
 
 > **Call to Action**
 >
-> 10) We call upon the federal government to draft new Aboriginal education legislation with the full participation and informed consent of Aboriginal peoples. The new legislation would include a commitment to sufficient funding and would incorporate the following principles:  
-> i.  Providing sufficient funding to close identified educational achievement gaps within one generation.  
-> ii.  Improving education attainment levels and success rates.  
-> iii.  Developing culturally appropriate curricula.  
-> iv.  Protecting the right to Aboriginal languages, including the teaching of Aboriginal languages as credit courses.  
-> v. Enabling parental and community responsibility, control, and accountability, similar to what parents enjoy in public school systems.  
-> vi. Enabling parents to fully participate in the education of their children.  
-> vii. Respecting and honouring Treaty relationships.  
+> 10) We call upon the federal government to draft new Aboriginal education legislation with the full participation and informed consent of Aboriginal peoples. The new legislation would include a commitment to sufficient funding and would incorporate the following principles:
+> i.  Providing sufficient funding to close identified educational achievement gaps within one generation.
+> ii.  Improving education attainment levels and success rates.
+> iii.  Developing culturally appropriate curricula.
+> iv.  Protecting the right to Aboriginal languages, including the teaching of Aboriginal languages as credit courses.
+> v. Enabling parental and community responsibility, control, and accountability, similar to what parents enjoy in public school systems.
+> vi. Enabling parents to fully participate in the education of their children.
+> vii. Respecting and honouring Treaty relationships.
 
 ### Métis and Inuit education
 
@@ -314,9 +314,9 @@ Other than ALI, the only significant programs for language preservation are the 
 
 The combined total annual federal budget for these Aboriginal languages programs is $9.1 million. By way of comparison, the Official Languages Program for English and French is projected to receive funding as follows:
 
-- 2012–13: $353.3 million  
-- 2013–14: $348.2 million  
-- 2014–15: $348.2 million.<sup>93</sup> 
+- 2012–13: $353.3 million
+- 2013–14: $348.2 million
+- 2014–15: $348.2 million.<sup>93</sup>
 
 The resources committed to Aboriginal language programs are far fewer than what is committed to French in areas where French speakers are in the minority. For example, the federal government provides support to the small minority of francophones in Nunavut in the amount of approximately $4,000 per individual annually. In contrast, funding to support Inuit-language initiatives is estimated at $44 per Inuk per year.<sup>94</sup>
 
@@ -324,12 +324,12 @@ The Commission believes that a multi-pronged approach to Aboriginal language pre
 
 > **Calls to Action**
 >
-> 14) We call upon the federal government to enact an Aboriginal Languages Act that incorporates the following principles:  
-> i. Aboriginal languages are a fundamental and valued element of Canadian culture and society, and there is an urgency to preserve them.  
-> ii. Aboriginal language rights are reinforced by the Treaties.  
-> iii. The federal government has a responsibility to provide sufficient funds for Aboriginal-language revitalization and preservation.  
-> iv. The preservation, revitalization, and strengthening of Aboriginal languages and cultures are best managed by Aboriginal people and communities.  
-> v. Funding for Aboriginal language initiatives must reflect the diversity of Aboriginal languages.  
+> 14) We call upon the federal government to enact an Aboriginal Languages Act that incorporates the following principles:
+> i. Aboriginal languages are a fundamental and valued element of Canadian culture and society, and there is an urgency to preserve them.
+> ii. Aboriginal language rights are reinforced by the Treaties.
+> iii. The federal government has a responsibility to provide sufficient funds for Aboriginal-language revitalization and preservation.
+> iv. The preservation, revitalization, and strengthening of Aboriginal languages and cultures are best managed by Aboriginal people and communities.
+> v. Funding for Aboriginal language initiatives must reflect the diversity of Aboriginal languages.
 >
 > 15) We call upon the federal government to appoint, in consultation with Aboriginal groups, an Aboriginal Languages Commissioner. The commissioner should help promote Aboriginal languages and report on the adequacy of federal funding of Aboriginal-languages initiatives.
 
@@ -423,17 +423,17 @@ Aboriginal health practices and beliefs, like Aboriginal peoples themselves, are
 
 > **Calls to Action**
 >
-> 21) We call upon the federal government to provide sustainable funding for existing and new Aboriginal healing centres to address the physical, mental, emotional, and spiritual harms caused by residential schools, and to ensure that the funding of healing centres in Nunavut and the Northwest Territories is a priority. 
-> 
+> 21) We call upon the federal government to provide sustainable funding for existing and new Aboriginal healing centres to address the physical, mental, emotional, and spiritual harms caused by residential schools, and to ensure that the funding of healing centres in Nunavut and the Northwest Territories is a priority.
+>
 > 22) We call upon those who can effect change within the Canadian health-care system to recognize the value of Aboriginal healing practices and use them in the treatment of Aboriginal patients in collaboration with Aboriginal healers and Elders where requested by Aboriginal patients.
 
 Overcoming the health legacy of the residential schools will require a long-term investment in Aboriginal communities, so that communities can revive their capacity to heal themselves. One key investment will be the training of more Aboriginal health and social service professionals. The work that Health Canada’s community cultural and traditional knowledge healing team members did in support of this Commission and other Settlement Agreement processes is but one example of the invaluable service these professionals can provide.
 
 > **Call to Action**
 >
-> 23) We call upon all levels of government to: 
-> i. Increase the number of Aboriginal professionals working in the healthcare field.  
-> ii. Ensure the retention of Aboriginal health-care providers in Aboriginal communities.  
+> 23) We call upon all levels of government to:
+> i. Increase the number of Aboriginal professionals working in the healthcare field.
+> ii. Ensure the retention of Aboriginal health-care providers in Aboriginal communities.
 > iii. Provide cultural competency training for all health-care professionals.
 
 Closing the gap in health outcomes will come about only as part of a comprehensive strategy of change. To be more effective in improving health outcomes, non-Aboriginal medical practitioners must develop a better understanding of the health issues facing Canada’s Aboriginal peoples and of the legacy of residential schools.
@@ -494,8 +494,8 @@ The criminal prosecution of abusers in residential schools and the subsequent ci
 
 > **Calls to Action**
 >
-> 27) We call upon the Federation of Law Societies of Canada to ensure that lawyers receive appropriate cultural competency training, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.  
-> 
+> 27) We call upon the Federation of Law Societies of Canada to ensure that lawyers receive appropriate cultural competency training, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
+>
 > 28) We call upon law schools in Canada to require all law students to take a course in Aboriginal people and the law, which includes the history and legacy of residential schools, the United Nations Declaration on the Rights of Indigenous Peoples, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
 ### Aftermath of the Settlement Agreement
@@ -596,10 +596,10 @@ The recent enactment of mandatory minimum sentences for some offences further co
 
 > **Call to Action**
 >
-> 34) We call upon the governments of Canada, the provinces, and territories to undertake reforms to the criminal justice system to better address the needs of offenders with Fetal Alcohol Spectrum Disorder (FASD), including:  
-> i.  Providing increased community resources and powers for courts to ensure that FASD is properly diagnosed, and that appropriate community supports are in place for those with FASD.  
-> ii.  Enacting statutory exemptions from mandatory minimum sentences of imprisonment for offenders affected by FASD.  
-> iii.  Providing community, correctional, and parole resources to maximize the ability of people with FASD to live in the community.  
+> 34) We call upon the governments of Canada, the provinces, and territories to undertake reforms to the criminal justice system to better address the needs of offenders with Fetal Alcohol Spectrum Disorder (FASD), including:
+> i.  Providing increased community resources and powers for courts to ensure that FASD is properly diagnosed, and that appropriate community supports are in place for those with FASD.
+> ii.  Enacting statutory exemptions from mandatory minimum sentences of imprisonment for offenders affected by FASD.
+> iii.  Providing community, correctional, and parole resources to maximize the ability of people with FASD to live in the community.
 > iv.  Adopting appropriate evaluation mechanisms to measure the effectiveness of such programs and ensure community safety.
 
 ### Cultural services in prisons and jails
@@ -614,8 +614,8 @@ There are some federal programs that appear to be working, but Aboriginal inmate
 
 > **Calls to Action**
 >
-> 35) We call upon the federal government to eliminate barriers to the creation of additional Aboriginal healing lodges within the federal correctional system.  
-> 
+> 35) We call upon the federal government to eliminate barriers to the creation of additional Aboriginal healing lodges within the federal correctional system.
+>
 > 36) We call upon the federal, provincial, and territorial governments to work with Aboriginal communities to provide culturally relevant services to inmates on issues such as substance abuse, family and domestic violence, and overcoming the experience of having been sexually abused.
 
 ### Parole and community supports
@@ -676,9 +676,9 @@ More research is needed, but the available information suggests a devastating li
 
 > **Call to Action**
 >
-> 41) We call upon the federal government, in consultation with Aboriginal organizations, to appoint a public inquiry into the causes of, and remedies for, the disproportionate victimization of Aboriginal women and girls. The inquiry’s mandate would include:  
-> i. Investigation into missing and murdered Aboriginal women and girls.  
-> ii. Links to the intergenerational legacy of residential schools.  
+> 41) We call upon the federal government, in consultation with Aboriginal organizations, to appoint a public inquiry into the causes of, and remedies for, the disproportionate victimization of Aboriginal women and girls. The inquiry’s mandate would include:
+> i. Investigation into missing and murdered Aboriginal women and girls.
+> ii. Links to the intergenerational legacy of residential schools.
 
 ### Strategies for change
 
@@ -694,4 +694,4 @@ The Commission is convinced that genuine reconciliation will not be possible unt
 
 ________________________
 
-&larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: The challenge of reconciliation &rarr;
+&larr; Back: [The history](/trc/history) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [The challenge of reconciliation](/trc/challenge) &rarr;

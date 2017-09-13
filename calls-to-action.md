@@ -1,3 +1,7 @@
+&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendices &rarr;
+
+__________________________
+
 **Table of contents**
 
 - [Legacy](#legacy)
@@ -447,3 +451,7 @@ National Centre for Truth and Reconciliation
 **94\.** We call upon the Government of Canada to replace the Oath of Citizenship with the following:
 
 > I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada including Treaties with Indigenous Peoples, and fulfill my duties as a Canadian citizen.
+
+__________________________
+
+&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendices &rarr;
