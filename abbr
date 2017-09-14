@@ -1,6 +1,7 @@
 # Capitalizes common abbreviations/acronyms found in the TRC report
 s/\bajr\b/AJR/g
 s/\bali\b/ALI/g
+s/\baptn\bAPTN/g
 s/\bcbc\b/CBC/g
 s/\bcep\b/CEP/g
 s/\bcmec\b/CMEC/g
