@@ -178,7 +178,7 @@ The Commission shall operate through a central Secretariat.
 
   (iii) provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
 
-### [7. Indian Residential School Survivor Committee (IRSSC)](#7-irssc)
+### 7. Indian Residential School Survivor Committee (IRSSC) {#7-irssc}
 
 The Commission shall be assisted by an Indian Residential School Survivor Committee (IRSSC).
 
