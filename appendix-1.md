@@ -1,20 +1,48 @@
-Appendix 1
+&larr; Back: [Calls to action](/trc/calls-to-action) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 2: Canada's Residential Schools &rarr;
 
-The Mandate of the Truth and Reconciliation Commission
+__________________________
 
-Schedule N of the Indian Residential Schools Settlement Agreement
+**Table of contents**
+
+  * [Schedule N of the Indian Residential Schools Settlement Agreement](#schedule-n-of-the-indian-residential-schools-settlement-agreement)
+  * [Principles](#principles)
+  * [Terms of Reference](#terms-of-reference)
+    + [1. Goals](#1-goals)
+    + [2. Establishment, Powers, Duties and Procedures of the Commission](#2-establishment--powers--duties-and-procedures-of-the-commission)
+    + [3. Responsibilities](#3-responsibilities)
+    + [4. Exercise of Duties](#4-exercise-of-duties)
+    + [5. Membership](#5-membership)
+    + [6. Secretariat](#6-secretariat)
+    + [7.   Indian Residential School Survivor Committee (IRSSC)](#7---indian-residential-school-survivor-committee--irssc-)
+    + [8. Timeframe](#8-timeframe)
+      - [Two Year Timeline](#two-year-timeline)
+      - [Five Year Timeline](#five-year-timeline)
+    + [9. Research](#9-research)
+    + [10. Events](#10-events)
+      - [(A) National Events](#-a--national-events)
+      - [(B) Community Events](#-b--community-events)
+      - [(C) Individual Statement-Taking/Truth Sharing](#-c--individual-statement-taking-truth-sharing)
+      - [(D) Closing Ceremony](#-d--closing-ceremony)
+    + [11. Access to Relevant Information](#11-access-to-relevant-information)
+    + [12. National Research Centre](#12-national-research-centre)
+    + [13. Privacy](#13-privacy)
+    + [14. Budget and Resources](#14-budget-and-resources)
+
+# Appendix 1: The Mandate of the Truth and Reconciliation Commission
+
+## Schedule N of the Indian Residential Schools Settlement Agreement
 
 There is an emerging and compelling desire to put the events of the past behind us so that we can work towards a stronger and healthier future. The truth telling and reconciliation process as part of an overall holistic and comprehensive response to the Indian Residential School legacy is a sincere indication and acknowledgement of the injustices and harms experienced by Aboriginal people and the need for continued healing. This is a profound commitment to establishing new relationships embedded in mutual recognition and respect that will forge a brighter future. The truth of our common experiences will help set our spirits free and pave the way to reconciliation.
 
-Principles
+## Principles
 
 Through the Agreement, the Parties have agreed that an historic Truth and Reconciliation Commission will be established to contribute to truth, healing and reconciliation.
 
 The Truth and Reconciliation Commission will build upon the “Statement of Reconciliation” dated January 7, 1998 and the principles developed by the Working Group on Truth and Reconciliation and of the Exploratory Dialogues (1998-1999). These principles are as follows: accessible; victim-centered; confidentiality (if required by the former student); do no harm; health and safety of participants; representative; public/transparent; accountable; open and honourable process; comprehensive; inclusive, educational, holistic, just and fair; respectful; voluntary; flexible; and forward looking in terms of rebuilding and renewing Aboriginal relationships and therelationship between Aboriginal and non-Aboriginal Canadians. Reconciliation is an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada. Reconciliation may occur between any of the above groups.
 
-Terms of Reference
+## Terms of Reference
 
-1. Goals
+### 1. Goals
 
 The goals of the Commission shall be to:
 
@@ -32,9 +60,9 @@ The goals of the Commission shall be to:
 
 (g) Support commemoration of former Indian Residential School students and their families in accordance with the Commemoration Policy Directive (Schedule “X” of the Agreement).
 
-2. Establishment, Powers, Duties and Procedures of the Commission
+### 2. Establishment, Powers, Duties and Procedures of the Commission
 
-The Truth and Reconciliation Commission shall be established by the appointment of “the Commissioners” by the Federal Government through an Order in Council, pursuant to special appointment regulations. 
+The Truth and Reconciliation Commission shall be established by the appointment of “the Commissioners” by the Federal Government through an Order in Council, pursuant to special appointment regulations.
 
 Pursuant to the Court-approved final settlement agreement and the class action judgments, the Commissioners:
 
@@ -64,7 +92,7 @@ has already been established through legal proceedings, by admission, or by publ
 
 (l) may refer to the NAC for determination of disputes involving document production, document disposal and archiving, contents of the Commission’s Report and Recommendations and Commission decisions regarding the scope of its research and issues to be examined. The Commission shall make best efforts to resolve the matter itself before referring it to the NAC.
 
-3. Responsibilities
+### 3. Responsibilities
 
 In keeping with the powers and duties of the Commission, as enumerated in section 2 above, the Commission shall have the following responsibilities:
 
@@ -86,7 +114,7 @@ In keeping with the powers and duties of the Commission, as enumerated in sectio
 
 (i) to evaluate commemoration proposals in line with the Commemoration Policy Directive (Schedule “J” of the Agreement).
 
-4.	 Exercise of Duties
+### 4. Exercise of Duties
 
 As the Commission is not to act as a public inquiry or to conduct a formal legal process, it will, therefore, not duplicate in whole or in part the function of criminal investigations, the Independent Assessment Process, court actions, or make recommendations on matters already covered in the Agreement. In the exercise of its powers the Commission shall recognize:
 
@@ -104,7 +132,7 @@ As the Commission is not to act as a public inquiry or to conduct a formal legal
 
 (g) that there shall be an emphasis on both information collection/storage and information analysis.
 
-5. Membership
+### 5. Membership
 
 The Commission shall consist of an appointed Chairperson and two Commissioners, who shall be persons of recognized integrity, stature and respect.
 
@@ -114,7 +142,7 @@ The Commission shall consist of an appointed Chairperson and two Commissioners, 
 
 (c) The Assembly of First Nations (AFN) shall be consulted in making the final decision as to the appointment of the Commissioners.
 
-6. Secretariat
+### 6. Secretariat
 
 The Commission shall operate through a central Secretariat.
 
@@ -127,7 +155,7 @@ The Commission shall operate through a central Secretariat.
 	(i) research;
 
 	(ii) event organization;
-	
+
 	(iii) statement taking/truth-sharing;
 
 	(iv) obtaining documents;
@@ -145,12 +173,12 @@ The Commission shall operate through a central Secretariat.
 (e) Regional liaisons shall:
 
 	(i) act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
-	
+
 	(ii) provide a link between the national body and communities for the purpose of coordinating national and community events;
-	
+
 	(iii) provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
 
-7.	 Indian Residential School Survivor Committee (IRSSC)
+### 7.	 Indian Residential School Survivor Committee (IRSSC)
 
 The Commission shall be assisted by an Indian Residential School Survivor Committee (IRSSC).
 
@@ -159,40 +187,40 @@ The Commission shall be assisted by an Indian Residential School Survivor Commit
 (b) Members of the Committee shall be selected by the Federal Government, in consultation with the AFN, from a pool of eligible candidates developed by the stakeholders;
 
 (c) Committee members are responsible for providing advice to the Commissioners on:
-	
+
 	(i) the characteristics of a “community” for the purposes of participation in the Commission processes;
-	
+
 	(ii) the criteria for the community and national processes;
-	
+
 	(iii) the evaluation of Commemoration Policy Directive proposals;
 
 	(iv) such other issues as are required by the Commissioners.
 
-8. Timeframe
+### 8. Timeframe
 
 The Commission shall complete its work within five years. Within that five year span, there are two timelines:
 
-Two Year Timeline
+#### Two Year Timeline
 
 (a) Preparation of a budget within three months from being launched, under the budgetary cap provision in the Agreement;
 
 (b) Completion of all national events, and research and production of the report on historic findings and recommendations, within two years of the launch of the Commission, with the possibility of a 6 month extension, which shall be at the discretion of the Commissioners.
 
-Five Year Timeline
+#### Five Year Timeline
 
 (a) Completion of the community truth and reconciliation events, statement taking/truth sharing, reporting to the Commission from communities, and closing ceremonies;
 
 (b) Establishment of a research centre.
 
-9. Research
+### 9. Research
 
 The Commission shall conduct such research, receive and take such statements and consider such documents as it deems necessary for the purpose of achieving its goals.
 
-10. Events
+### 10. Events
 
 There are three essential event components to the Truth and Reconciliation Commission: National Events, Community Events and Individual Statement-Taking/ Truth Sharing. The Truth and Reconciliation process will be concluded with a final Closing Ceremony.
 
-(A) National Events
+#### (A) National Events
 
 The national events are a mechanism through which the truth and reconciliation process will engage the Canadian public and provide education about the IRS system, the experience of former students and their families, and the ongoing legacies of the institutions.
 
@@ -222,7 +250,7 @@ The Commission shall fund and host seven national events in different regions ac
 
 (l) health supports and trauma experts during and after the ceremony for all participants.
 
-(B) Community Events
+#### (B) Community Events
 
 It is intended that the community events will be designed by communities and respond to the needs of the former students, their families and those affected by the IRS legacy including the special needs of those communities where Indian Residential Schools were located.
 
@@ -244,7 +272,7 @@ The community events are for the purpose of:
 
 Within these parameters communities may submit plans for reconciliation processes to the Commission and receive funding for the processes within the limits of the Commission’s budgetary capacity.
 
-(C) Individual Statement-Taking/Truth Sharing
+#### (C) Individual Statement-Taking/Truth Sharing
 
 The Commission shall coordinate the collection of individual statements by written, electronic or other appropriate means. Notwithstanding the five year mandate, anyone affected by the IRS legacy will be permitted to file a personal statement in the research centre with no time limitation.
 
@@ -252,21 +280,21 @@ The Commission shall provide a safe, supportive and sensitive environment for in
 
 The Commission shall not use or permit access to an individual’s statement made in any Commission processes, except with the express consent of the individual.
 
-(D) Closing Ceremony
+#### (D) Closing Ceremony
 
 The Commission shall hold a closing ceremony at the end of its mandate to recognize the significance of all events over the life of the Commission. The closing ceremony shall have the participation of high level church and government officials.
 
-11.	 Access to Relevant Information
+### 11. Access to Relevant Information
 
-In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation, and except for those documents for which solicitor-client privilege applies and is asserted. 
+In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation, and except for those documents for which solicitor-client privilege applies and is asserted.
 
-In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected. In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed. 
+In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected. In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.
 
-Canada and the churches are not required to give up possession of their original documents to the Commission. They are required to compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate. Provision of documents does not require provision of original documents. Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission. 
+Canada and the churches are not required to give up possession of their original documents to the Commission. They are required to compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate. Provision of documents does not require provision of original documents. Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission.
 
 Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process (IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.
 
-12.	 National Research Centre
+### 12. National Research Centre
 
 A research centre shall be established, in a manner and to the extent that the Commission’s budget makes possible. It shall be accessible to former students, their families and communities, the general public, researchers and educators who wish to include this historic material in curricula.
 
@@ -274,7 +302,7 @@ For the duration of the term of its mandate, the Commission shall ensure that al
 
 The Commission shall use such methods and engage in such partnerships with experts, such as Library and Archives Canada, as are necessary to preserve and maintain the materials and documents. To the extent feasible and taking into account the relevant law and any recommendations by the Commission concerning the continued confidentiality of records, all materials collected through this process should be accessible to the public.
 
-13. Privacy
+### 13. Privacy
 
 The Commission shall respect privacy laws, and the confidentiality concerns of participants. For greater certainty:
 
@@ -288,10 +316,15 @@ The Commission shall respect privacy laws, and the confidentiality concerns of p
 
 (e) documents shall be archived in accordance with legislation.
 
-14. Budget and Resources
+### 14. Budget and Resources
 
-The Commission shall prepare a budget within the first three months of its mandate and submit it to the Minister of Indian Residential Schools Resolution Canada for approval. Upon approval of its budget, it will have full authority to make decisions on spending, within the limits of, and in accordance with, its Mandate, its establishing Order in Council, Treasury Board policies, available funds, and its budgetary capacity. 
+The Commission shall prepare a budget within the first three months of its mandate and submit it to the Minister of Indian Residential Schools Resolution Canada for approval. Upon approval of its budget, it will have full authority to make decisions on spending, within the limits of, and in accordance with, its Mandate, its establishing Order in Council, Treasury Board policies, available funds, and its budgetary capacity.
 
 The Commission shall ensure that there are sufficient resources allocated to the community events over the five year period. The Commission shall also ensure that a portion of the budget is set aside for individual statement-taking/truth sharing and to archive the Commission’s records and information.
 
 Institutional parties shall bear the cost of participation and attendance in Commission events and community events, as well as provision of documents. If requested by the party providing the documents, the costs of copying, scanning, digitalizing, or otherwise reproducing the documents will be borne by the Commission.
+
+__________________________
+
+&larr; Back: [Calls to action](/trc/calls-to-action) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 2: Canada's Residential Schools &rarr;
+

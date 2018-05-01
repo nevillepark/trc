@@ -1,4 +1,4 @@
-&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendices &rarr;
+&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 1](/trc/appendix-1) &rarr;
 
 __________________________
 
@@ -454,4 +454,4 @@ National Centre for Truth and Reconciliation
 
 __________________________
 
-&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendices &rarr;
+&larr; Back: [The challenge of reconciliation](/trc/challenge) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 1](/trc/appendix-1) &rarr;

@@ -22,6 +22,12 @@ Learn more about this project on [Github](https://github.com/nevillepark/trc).
 6. [The challenge of reconciliation](/trc/challenge) [[plaintext](/txt/challenge.txt)]
 7. [Calls to Action](/trc/calls-to-action) [[plaintext](/txt/calls-to-action.txt)]
 8. Appendices
+- [Appendix 1: The Mandate of the Truth and Reconciliation Commission](/trc/appendix-1) [[plaintext](/txt/appendix-1.txt)]
+- Appendix 2: Canada's Residential Schools
+- Appendix 3: Persons Found Guilty of Abusing Residential School Students
+- Appendix 4: Apologies
+- Appendix 5: Honorary Witnesses
+- Appendix 6: Commission Staff and Contractors
 9. Bibliography
 10. Endnotes
 
