@@ -13,7 +13,7 @@ __________________________
     + [4. Exercise of Duties](#4-exercise-of-duties)
     + [5. Membership](#5-membership)
     + [6. Secretariat](#6-secretariat)
-    + [7. Indian Residential School Survivor Committee (IRSSC)](#7-irssc)
+    + [7. Indian Residential School Survivor Committee (IRSSC)](#7-indian-residential-survivor-school-committee-irssc)
     + [8. Timeframe](#8-timeframe)
       - [Two Year Timeline](#two-year-timeline)
       - [Five Year Timeline](#five-year-timeline)
@@ -21,7 +21,7 @@ __________________________
     + [10. Events](#10-events)
       - [(A) National Events](#a-national-events)
       - [(B) Community Events](#b-community-events)
-      - [(C) Individual Statement-Taking/Truth Sharing](#c-individual-statement-taking-truth-sharing)
+      - [(C) Individual Statement-Taking/Truth Sharing](#c-individual-statement-takingtruth-sharing)
       - [(D) Closing Ceremony](#d-closing-ceremony)
     + [11. Access to Relevant Information](#11-access-to-relevant-information)
     + [12. National Research Centre](#12-national-research-centre)
@@ -150,7 +150,7 @@ The Commission shall operate through a central Secretariat.
 
 (b) The Executive Director and the Secretariat shall be subject to the direction and control of the Commissioners;
 
-(c) The Secretariat shall be responsible for the activities of the Commission such as:
+(c) The Secretariat shall be responsible for the activities of the Commission such as:  
 
   (i) research;
 
@@ -170,15 +170,15 @@ The Commission shall operate through a central Secretariat.
 
 (d) The Executive Director and Commissioners shall consult with the Indian Residential School Survivor Committee on the appointment of the Regional Liaisons.
 
-(e) Regional liaisons shall:
-
+(e) Regional liaisons shall:  
+  
   (i) act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
-
+  
   (ii) provide a link between the national body and communities for the purpose of coordinating national and community events;
-
+  
   (iii) provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
 
-### 7. Indian Residential School Survivor Committee (IRSSC) {#7-irssc}
+### 7. Indian Residential School Survivor Committee (IRSSC)
 
 The Commission shall be assisted by an Indian Residential School Survivor Committee (IRSSC).
 
@@ -186,7 +186,7 @@ The Commission shall be assisted by an Indian Residential School Survivor Commit
 
 (b) Members of the Committee shall be selected by the Federal Government, in consultation with the AFN, from a pool of eligible candidates developed by the stakeholders;
 
-(c) Committee members are responsible for providing advice to the Commissioners on:
+(c) Committee members are responsible for providing advice to the Commissioners on:  
 
   (i) the characteristics of a “community” for the purposes of participation in the Commission processes;
 
