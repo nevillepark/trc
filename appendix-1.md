@@ -8,21 +8,21 @@ __________________________
   * [Principles](#principles)
   * [Terms of Reference](#terms-of-reference)
     + [1. Goals](#1-goals)
-    + [2. Establishment, Powers, Duties and Procedures of the Commission](#2-establishment--powers--duties-and-procedures-of-the-commission)
+    + [2. Establishment, Powers, Duties and Procedures of the Commission](#2-establishment-powers-duties-and-procedures-of-the-commission)
     + [3. Responsibilities](#3-responsibilities)
     + [4. Exercise of Duties](#4-exercise-of-duties)
     + [5. Membership](#5-membership)
     + [6. Secretariat](#6-secretariat)
-    + [7.   Indian Residential School Survivor Committee (IRSSC)](#7---indian-residential-school-survivor-committee--irssc-)
+    + [7. Indian Residential School Survivor Committee (IRSSC)](#7-irssc)
     + [8. Timeframe](#8-timeframe)
       - [Two Year Timeline](#two-year-timeline)
       - [Five Year Timeline](#five-year-timeline)
     + [9. Research](#9-research)
     + [10. Events](#10-events)
-      - [(A) National Events](#-a--national-events)
-      - [(B) Community Events](#-b--community-events)
-      - [(C) Individual Statement-Taking/Truth Sharing](#-c--individual-statement-taking-truth-sharing)
-      - [(D) Closing Ceremony](#-d--closing-ceremony)
+      - [(A) National Events](#a-national-events)
+      - [(B) Community Events](#b-community-events)
+      - [(C) Individual Statement-Taking/Truth Sharing](#c-individual-statement-taking-truth-sharing)
+      - [(D) Closing Ceremony](#d-closing-ceremony)
     + [11. Access to Relevant Information](#11-access-to-relevant-information)
     + [12. National Research Centre](#12-national-research-centre)
     + [13. Privacy](#13-privacy)
@@ -152,33 +152,33 @@ The Commission shall operate through a central Secretariat.
 
 (c) The Secretariat shall be responsible for the activities of the Commission such as:
 
-	(i) research;
+  (i) research;
 
-	(ii) event organization;
+  (ii) event organization;
 
-	(iii) statement taking/truth-sharing;
+  (iii) statement taking/truth-sharing;
 
-	(iv) obtaining documents;
+  (iv) obtaining documents;
 
-	(v) information management of the Commission’s documents;
+  (v) information management of the Commission’s documents;
 
-	(vi) production of the report;
+  (vi) production of the report;
 
-	(vii) ensuring the preservation of its records;
+  (vii) ensuring the preservation of its records;
 
-	(viii) evaluation of the Commemoration Policy Directive proposals.
+  (viii) evaluation of the Commemoration Policy Directive proposals.
 
 (d) The Executive Director and Commissioners shall consult with the Indian Residential School Survivor Committee on the appointment of the Regional Liaisons.
 
 (e) Regional liaisons shall:
 
-	(i) act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
+  (i) act as knowledge conduits and promote sharing of knowledge among communities, individuals and the Commission;
 
-	(ii) provide a link between the national body and communities for the purpose of coordinating national and community events;
+  (ii) provide a link between the national body and communities for the purpose of coordinating national and community events;
 
-	(iii) provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
+  (iii) provide information to and assist communities as they plan truth and reconciliation events, coordinate statement-taking/truth-sharing and event-recording, and facilitate information flow from the communities to the Commission.
 
-### 7.	 Indian Residential School Survivor Committee (IRSSC)
+### [7. Indian Residential School Survivor Committee (IRSSC)](#7-irssc)
 
 The Commission shall be assisted by an Indian Residential School Survivor Committee (IRSSC).
 
@@ -188,13 +188,13 @@ The Commission shall be assisted by an Indian Residential School Survivor Commit
 
 (c) Committee members are responsible for providing advice to the Commissioners on:
 
-	(i) the characteristics of a “community” for the purposes of participation in the Commission processes;
+  (i) the characteristics of a “community” for the purposes of participation in the Commission processes;
 
-	(ii) the criteria for the community and national processes;
+  (ii) the criteria for the community and national processes;
 
-	(iii) the evaluation of Commemoration Policy Directive proposals;
+  (iii) the evaluation of Commemoration Policy Directive proposals;
 
-	(iv) such other issues as are required by the Commissioners.
+  (iv) such other issues as are required by the Commissioners.
 
 ### 8. Timeframe
 
