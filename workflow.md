@@ -36,7 +36,7 @@ To test, select a few pages and append ` - ` instead of a filename so it prints 
 
 - Mark up headings.
 
-- **Markdown version:** Replace footnotes with HTML footnootes using regex; indent blockquotes with regex; run through [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to generate a table of contents, paste at beginning of file.
+- **Markdown version:** Wrap footnote numbers in `<sup>` tags using regex; indent blockquotes with regex; run through [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to generate a table of contents, paste at beginning of file.
 
 - **Plaintext version:** AFTER all text changes have been made, justify text versions at 80 characters; replace Markdown headings with = and - as underlines. 
 
@@ -78,8 +78,10 @@ git push origin master
 `git fetch origin`
 `git reset --hard origin/master`
 
+See [this guide](https://kbroman.org/github_tutorial/pages/routine.html) for a more detailed explanation.
+
 ## To do
 
 - [ ] Is there a way to extract pictures & graphs?
 - [ ] lern 2 tr nub
-- [ ] Replace older .txt versions with ones with reasonable tab stops
+- [x] Replace older .txt versions with ones with reasonable tab stops
