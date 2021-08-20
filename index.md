@@ -23,7 +23,7 @@ Learn more about this project on [Github](https://github.com/nevillepark/trc).
 7. [Calls to Action](/trc/calls-to-action) [[plaintext](/txt/calls-to-action.txt)]
 8. Appendices
 - [Appendix 1: The Mandate of the Truth and Reconciliation Commission](/trc/appendix-1) [[plaintext](/txt/appendix-1.txt)]
-- [Appendix 2: Canada's Residential Schools](/trc/appendix-2)
+- [Appendix 2: Canada's Residential Schools](/trc/appendix-2) [[plaintext](/txt/appendix-2.txt)]
   - 2.1: Residential schools and residences included in the
 Indian Residential Schools Settlement Agreement
   - 2.2:  Residential schools identified in Indian Affairs
