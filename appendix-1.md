@@ -1,4 +1,4 @@
-&larr; Back: [Calls to action](/trc/calls-to-action) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 2: Canada's Residential Schools &rarr;
+&larr; Back: [Calls to action](/trc/calls-to-action) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 2: Canada's Residential Schools](/trc/appendix-2) &rarr;
 
 __________________________
 
