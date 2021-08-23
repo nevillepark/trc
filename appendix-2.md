@@ -1,5 +1,6 @@
-&larr; Back: [Appendix 1: The Mandate of the Truth and Reconciliation Commission](/trc/appendix-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 2.1: Residential schools and residences included in the
-Indian Residential Schools Settlement Agreement &rarr;
+&larr; Back: [Appendix 1: The Mandate of the Truth and Reconciliation Commission](/trc/appendix-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &rarr;
+
+______________________
 
 # Appendix 2: Canada’s Residential Schools
 
@@ -22,3 +23,7 @@ The IRSSA list of approved schools has a number of limits.
 Appendix 2.1 presents the schools listed on the Settlement Agreement by province (in alphabetical order). Because of the number of schools with the same name, the schools are listed by location. (When more than one school was located in a single location, there are multiple entries for that location.) Appendix 2.1 also addresses the anomalies that appeared in the Settlement Agreement list: separate listings have been created for schools that were combined on the Settlement Agreement list, such as those at Edmonton and Red Deer. The Kamsack and Fort Pelly Roman Catholic schools have been combined, as have the Roman Catholic schools at Cross Lake, Norway House, Notre Dame, and Jack River, which appear to have been part of a linked administrative structure. Where possible, the opening and closing dates are based on archival documents. Where this was not possible, secondary sources were consulted. In most cases, the dates represent only the opening and closing, and do not reflect periods when the school might have been temporarily closed. The Truth and Reconciliation Commission of Canada attempted to be as comprehensive as possible. For this reason, the dates may not correspond to those used in assessing claims under the Common Experience Payment program and the Independent Assessment Process, which employ criteria relating to the degree of federal involvement in the operation of the facility.
 
 Appendix 2.2 lists residential schools that were funded by Indian Affairs in the late nineteenth and early twentieth centuries, but were not included in the Settlement Agreement. The information on these schools comes from the Indian Affairs annual reports, particularly the table of schools published annually.
+
+________________________
+
+&larr; Back: [Appendix 1: The Mandate of the Truth and Reconciliation Commission](/trc/appendix-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &rarr;
