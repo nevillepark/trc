@@ -20,6 +20,16 @@ This converts the PDF to text while
 
 To test, select a few pages and append ` - ` instead of a filename so it prints to stdout.
 
+For the columns of text in Appendices 2.1 and 2.2, I converted each column on each page separately, then concatenated them together into one file, using a script like this:
+
+```
+for i in {369..370}; do
+	pdftotext -f $i -l $i -y 60 -W 240 -H 700 -nopgbrk Executive_Summary_English_Web.pdf ${i}a.txt 
+	pdftotext -f $i -l $i -x 240 -y 60 -W 240 -H 700 -nopgbrk Executive_Summary_English_Web.pdf ${i}b.txt 
+	cat ${i}a.txt ${i}b.txt >> appendix-2.2.txt
+done
+```
+
 ## Formatting
 
 - Use [regexr.com](http://regexr.com) or `tr` to add newlines after headings/between paragraphs as necessary.
@@ -48,6 +58,7 @@ To test, select a few pages and append ` - ` instead of a filename so it prints 
 | Hyphenated words | `\b-\n` | |
 | Footnotes, plaintext | `([.?!"”’])(\d+)` | `$1^$2` | 
 | Footnotes, Markdown | `\^(\d+)` | `<sup>$1</sup>` | Find a way to exclude dollar figures, percents, pop'n figures, etc. |
+| School names in Appendices 2.1-2 | `(?!\#\#\s)(?<=\n\n)(.+)` | `**$&**` | Yes this is a mess |
 
 ### Common acronyms
 
@@ -84,4 +95,3 @@ See [this guide](https://kbroman.org/github_tutorial/pages/routine.html) for a m
 
 - [ ] Is there a way to extract pictures & graphs?
 - [ ] lern 2 tr nub
-- [x] Replace older .txt versions with ones with reasonable tab stops
