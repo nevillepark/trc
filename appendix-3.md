@@ -1,4 +1,4 @@
-&larr; Back: Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 4: Apologies &rarr;
+&larr; Back: [Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-2) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 4: Apologies &rarr;
 
 ______________________
 
@@ -10,4 +10,4 @@ The following list of individuals convicted of abusing residential school studen
 
 ______________________
 
-&larr; Back: Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 4: Apologies &rarr;
+&larr; Back: [Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-2) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 4: Apologies &rarr;
