@@ -1,4 +1,5 @@
 &larr; Back: [Appendix 3: Persons Found Guilty of Abusing Residential Schools Students](/trc/appendix-3) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 5: Honorary Witnesses &rarr;
+
 ______________________
 
 - [Appendix 4: Apologies](#appendix-4-apologies)
