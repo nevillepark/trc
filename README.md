@@ -21,10 +21,10 @@ All of the tools I am using are free for anyone to use, and they (or reasonable 
 
 ### Graphical applications
 
-- [Regexr](http://regexr.com), as an [Epiphany](https://elementary.io/#showcase-epiphany) web app
+- [Regexr](http://regexr.com)
 - [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/), to generate tables of contents
-- PDF viewer [evince](https://wiki.gnome.org/Apps/Evince)
-- Text editor [Code](https://github.com/elementary/code)
+- PDF viewers: [evince](https://wiki.gnome.org/Apps/Evince), [Okular](https://okular.kde.org/)
+- Text editors: [Code](https://github.com/elementary/code), [Kate](https://kate-editor.org)
 
 I could probably crowdfund buying the e-books and extract the text much easier that way, but I am stubborn and like a challenge.
 
