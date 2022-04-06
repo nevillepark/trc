@@ -26,7 +26,7 @@ Learn more about this project on [Github](https://github.com/nevillepark/trc).
 - [Appendix 2: Canada's Residential Schools](/trc/appendix-2) [[plaintext](/txt/appendix-2.txt)]
   - [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) [[plaintext](/txt/appendix-2.1.txt)]
   - [Appendix 2.2: Residential schools identified in Indian Affairs annual reports that were not included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-2) [[plaintext](/txt/appendix-2.2.txt)]
-- Appendix 3: Persons Found Guilty of Abusing Residential School Students
+- [Appendix 3: Persons Found Guilty of Abusing Residential School Students](/trc/appendix-3) [[plaintext](/txt/appendix-3.txt)]
 - Appendix 4: Apologies
 - Appendix 5: Honorary Witnesses
 - Appendix 6: Commission Staff and Contractors
