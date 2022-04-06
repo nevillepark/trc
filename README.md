@@ -10,7 +10,7 @@ This is just the Executive Summary; the full report consists of several volumes.
 
 ## Boring technical details
 
-All of the tools I am using are free for anyone to use, and they (or reasonable equivalents) are included with free operating systems. Personally, I am using [elementary OS](https://elementary.io/), which is based on the popular OS [Ubuntu](https://www.ubuntu.com/desktop).
+All of the tools I am using are free for anyone to use, and they (or reasonable equivalents) are included with free operating systems. Personally, I have used [elementary OS](https://elementary.io/) and am currently using [KDE Neon](https://neon.kde.org/), which are based on the popular OS [Ubuntu](https://www.ubuntu.com/desktop).
 
 ### Command-line applications
 
