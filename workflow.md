@@ -40,6 +40,8 @@ done
 
 - Open with `nano -r 10000` and justify (M-J) to remove line breaks in the middle of paragraphs.
 
+- Kate's "unwrap" command can also be used for this.
+
 - Mark up footnotes with regex. Make sure the number of footnotes matches the number of search results.
 
 - Put acronyms/abbreviations into uppercase.
