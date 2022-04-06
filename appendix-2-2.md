@@ -1,4 +1,4 @@
-&larr; Back: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 3: Persons Found Guilty of Abusing Residential School Students &rarr;
+&larr; Back: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 3: Persons Found Guilty of Abusing Residential School Students](/trc/appendix-3) &rarr;
 
 ______________________
 
@@ -120,4 +120,4 @@ Closing: 1892
 
 __________________
 
-&larr; Back: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: Appendix 3: Persons Found Guilty of Abusing Residential School Students &rarr;
+&larr; Back: [Appendix 2.1: Residential schools and residences included in the Indian Residential Schools Settlement Agreement](/trc/appendix-2-1) &middot; Up: [Table of contents](/trc/#table-of-contents) &middot; Next: [Appendix 3: Persons Found Guilty of Abusing Residential School Students](/trc/appendix-3) &rarr;
